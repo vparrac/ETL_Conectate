@@ -4,7 +4,8 @@ from datetime import datetime
 
 
 f= open("consolidado.csv","w+")
-
+f2= open("factsTable2.csv","w+")
+f2.write("crn,cod,inscritos,retiros,HT,AC,O,C,A,I,E \n ")
 listaClases=[]
 listaCursos=[]
 codigoPorCurso={}
@@ -156,4 +157,32 @@ for file_path in files_ind:
                     pass
             else:                
                 processStudent(row=row,categorias=categorias,numeroElementosCategorias=numeroElementosCategorias,sumaTotalCategorias=sumaTotalCategorias,crn=crn)
+    
+    for index in range(len(sumaTotalCategorias)):
+        if not numeroElementosCategorias[index]==0:
+            sumaTotalCategorias[index]=sumaTotalCategorias[index]/numeroElementosCategorias[index]
+            assert(sumaTotalCategorias[index]>=0 and sumaTotalCategorias[index]<=5)
+    
+    cat=""
+    for a in range(len(sumaTotalCategorias)):
+        if sumaTotalCategorias[a]!=0:
+            cat+=str(sumaTotalCategorias[a])+","
+        else:
+            cat+="null,"
+    nombreCSV=file_path.split('\\')
+    crn=nombreCSV[len(nombreCSV)-1].split(".")[0]   
+
+    retiros="null"
+    if crn in retirosPorCurso:
+        retiros=retirosPorCurso[crn]
+    
+    inscritos="null"
+    if crn in inscritosCurso:
+        inscritos=inscritosCurso[crn]
+    codigo="null"
+    if crn in codigoPorCurso:
+        codigo=codigoPorCurso[crn]
+
+    
+    f2.write(crn+","+codigo+","+str(inscritos)+","+str(retiros)+","+cat+"\n")
 f.close()

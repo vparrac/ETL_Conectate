@@ -1,767 +1,767 @@
-loginEstudiante;crn;codigo_curso;nota;anio;periodo;HT;AC;O;C;A;I;E 
- Login estudiante10790;CRN-1537;COD1534;4.4;201720;1;4.388888889;4;2.444444444;4;4;4;3.875
-Login estudiante10781;CRN-1537;COD1534;4.74;201720;1;3.888888889;4;4;4;4;4;4
-Login estudiante13369;CRN-1537;COD1534;4.4;201720;1;4.888888889;5;4.444444444;5;5;4.222222222;5
-Login estudiante10789;CRN-1537;COD1534;4.53;201720;1;3.166666667;null;2.444444444;null;null;null;null
-Login estudiante10782;CRN-1537;COD1534;4.75;201720;1;4.222222222;4;4.222222222;4;4;4.222222222;4
-Login estudiante10778;CRN-1537;COD1534;4.69;201720;1;4.722222222;5;2;5;5;4.444444444;4.875
-Login estudiante10785;CRN-1537;COD1534;4.61;201720;1;2.833333333;null;3;null;null;null;null
-Login estudiante13370;CRN-1537;COD1534;4.2;201720;1;4.722222222;5;2.888888889;4.041666667;5;4.888888889;3.75
-null;CRN-16672;null;null;null;null;4;3;3.888888889;4;4;4;4
-null;CRN-16672;null;null;null;null;4;5;4;4;4;4;4
-null;CRN-16672;null;null;null;null;4;2;2.666666667;3.5;4;3.888888889;2.75
-null;CRN-16672;null;null;null;null;4;3;2.777777778;4.166666667;5;3.888888889;3.5
-null;CRN-16672;null;null;null;null;3.666666667;1;2;1.333333333;3;1;2.375
-null;CRN-16672;null;null;null;null;3.666666667;3;3;4.5;3;3.444444444;2.75
-null;CRN-16672;null;null;null;null;5;3;3.111111111;5;4;4.111111111;4.75
-null;CRN-16672;null;null;null;null;4;3;2.777777778;4;3;4;3.5
-null;CRN-16672;null;null;null;null;4;3;2.888888889;2.5;2;2.666666667;2.375
-null;CRN-16672;null;null;null;null;3;3;2.555555556;3.333333333;4;3.222222222;3.375
-null;CRN-16672;null;null;null;null;4.666666667;3;2.333333333;4;4;3.444444444;3.5
-null;CRN-16672;null;null;null;null;3.333333333;4;2.555555556;4;4;2.777777778;3.625
-null;CRN-16672;null;null;null;null;4;1;2;3.5;4;3.333333333;1.5
-null;CRN-16672;null;null;null;null;null;null;null;null;null;null;null
-null;CRN-16672;null;null;null;null;null;null;null;null;null;null;null
-null;CRN-16672;null;null;null;null;4;3;3;4;2;4.333333333;2.875
-null;CRN-16672;null;null;null;null;3.333333333;3;3.111111111;3.666666667;2;4;3.25
-null;CRN-16672;null;null;null;null;4;3;3.888888889;4;4;3.111111111;3.125
-null;CRN-16672;null;null;null;null;5;3;2.555555556;4.666666667;4;3.888888889;4.875
-null;CRN-16672;null;null;null;null;null;null;null;null;null;null;null
-null;CRN-16672;null;null;null;null;4;3;3.666666667;4;4;4;3.875
-null;CRN-16672;null;null;null;null;4;4;3.888888889;3.166666667;4;4.555555556;2.75
-null;CRN-16672;null;null;null;null;4;3;4;5;5;4;2.75
-null;CRN-16672;null;null;null;null;3.333333333;3;3.888888889;4.166666667;3;4;2.75
-null;CRN-16672;null;null;null;null;3;1;2.222222222;2.666666667;4;3;1.875
-null;CRN-16672;null;null;null;null;4;3;3.888888889;3.833333333;4;3.666666667;3.375
-null;CRN-16672;null;null;null;null;4;4;3.888888889;4;4;4;4
-null;CRN-16672;null;null;null;null;3;null;4.666666667;null;null;null;null
-null;CRN-16672;null;null;null;null;4;3;3.777777778;3.5;4;3.222222222;3.375
-null;CRN-16672;null;null;null;null;4;4;3.555555556;4.166666667;4;4.555555556;4.375
-null;CRN-16672;null;null;null;null;5;5;4.777777778;5;5;3.888888889;4.25
-null;CRN-16672;null;null;null;null;4.333333333;4;3.444444444;3.5;4;3.222222222;3.5
-null;CRN-16672;null;null;null;null;4.333333333;4;3;3.833333333;3;3.444444444;3.25
-null;CRN-16672;null;null;null;null;3.666666667;2;2.333333333;3.833333333;2;2.555555556;1.625
-null;CRN-16672;null;null;null;null;4.666666667;4;4.222222222;5;5;4.777777778;4.5
-null;CRN-16672;null;null;null;null;4.333333333;4;3.222222222;4;4;3.444444444;3.875
-null;CRN-16672;null;null;null;null;5;5;3.333333333;5;5;4.444444444;5
-null;CRN-16672;null;null;null;null;5;2;2.333333333;3.666666667;4;4.222222222;3.75
-null;CRN-16672;null;null;null;null;4;5;4.777777778;4;4;4;4.875
-null;CRN-16672;null;null;null;null;4;1;2.777777778;2.166666667;1;2;1
-null;CRN-16672;null;null;null;null;4;3;3.888888889;4;2;3.666666667;1.5
-null;CRN-16672;null;null;null;null;4.333333333;5;4.333333333;4;5;4.222222222;4.75
-null;CRN-16672;null;null;null;null;4;4;3.666666667;3.166666667;4;3.444444444;3.25
-null;CRN-16672;null;null;null;null;4.666666667;3;2.222222222;3.833333333;4;4;3.75
-null;CRN-16672;null;null;null;null;3.666666667;3;3;3.333333333;4;3.777777778;3.375
-null;CRN-16672;null;null;null;null;null;null;null;null;null;null;null
-null;CRN-16672;null;null;null;null;4;4;3.777777778;4;4;4;3.25
-null;CRN-16672;null;null;null;null;4;null;null;null;null;null;null
-null;CRN-16672;null;null;null;null;4.333333333;4;4;4.333333333;4;4.222222222;3.75
-null;CRN-16672;null;null;null;null;5;5;3.333333333;4.5;5;4.333333333;3.25
-Login estudiante9503;CRN-16673;null;null;null;null;3.666666667;4;1.444444444;3.833333333;5;3.444444444;4
-Login estudiante16069;CRN-16673;null;null;null;null;3.666666667;3;1.888888889;3.333333333;4;3.111111111;4
-Login estudiante9974;CRN-16673;null;null;null;null;4.333333333;4;4.111111111;4;5;3.555555556;4.625
-Login estudiante3806;CRN-16673;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante9711;CRN-16673;null;null;null;null;4;5;2.666666667;3.333333333;4;3.888888889;4.625
-Login estudiante16074;CRN-16673;null;null;null;null;3;null;null;null;null;null;null
-Login estudiante15439;CRN-16673;null;null;null;null;4;null;2;4.333333333;null;null;null
-Login estudiante9463;CRN-16673;null;null;null;null;3.666666667;3;2.111111111;3.5;2;3.111111111;3.875
-Login estudiante16078;CRN-16673;null;null;null;null;4;3;3.222222222;4;4;2.888888889;3.5
-Login estudiante16080;CRN-16673;null;null;null;null;5;4;4.444444444;5;5;4.666666667;5
-Login estudiante5082;CRN-16673;null;null;null;null;3;5;3.444444444;4.5;5;3.666666667;5
-Login estudiante9459;CRN-16673;null;null;null;null;4;4;1.888888889;4;3;3.333333333;4
-Login estudiante10017;CRN-16673;null;null;null;null;5;4;2.222222222;5;5;3.666666667;5
-Login estudiante9088;CRN-16673;null;null;null;null;5;3;2;4.833333333;5;2.888888889;3.625
-Login estudiante16128;CRN-16674;null;null;null;null;4;5;5;4.833333333;4;4.777777778;4.5
-Login estudiante4938;CRN-16674;null;null;null;null;5;5;5;5;5;5;5
-Login estudiante11306;CRN-16674;null;null;null;null;4;4;4.111111111;3.666666667;4;4.333333333;4.75
-Login estudiante11300;CRN-16674;null;null;null;null;4.333333333;4;4.444444444;4.5;5;1.444444444;4.875
-Login estudiante11292;CRN-16674;null;null;null;null;4.333333333;4;4.222222222;4.666666667;5;4.111111111;4.875
-Login estudiante11297;CRN-16674;null;null;null;null;3.666666667;4;2.222222222;3.833333333;5;5;2.75
-Login estudiante16135;CRN-16674;null;null;null;null;4.333333333;4;4.444444444;4.5;4;4.444444444;4.875
-Login estudiante5589;CRN-16674;null;null;null;null;4;null;null;null;null;null;null
-Login estudiante16138;CRN-16674;null;null;null;null;3.333333333;4;3.444444444;3.833333333;3;3.444444444;5
-Login estudiante4207;CRN-16674;null;null;null;null;0;4;4.111111111;4;4;4;4
-Login estudiante10813;CRN-16674;null;null;null;null;5;5;5;5;5;4.777777778;5
-Login estudiante16142;CRN-16674;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16144;CRN-16674;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16146;CRN-16674;null;null;null;null;4.666666667;4;5;4.5;4;3.888888889;3.75
-Login estudiante7117;CRN-16674;null;null;null;null;5;5;4.333333333;4.166666667;4;4.555555556;5
-Login estudiante5588;CRN-16674;null;null;null;null;4;3;3.111111111;3.333333333;4;3.222222222;3.375
-Login estudiante11240;CRN-16675;null;null;null;null;4.333333333;4;3.111111111;4.666666667;4;2.888888889;3.875
-Login estudiante3316;CRN-16675;null;null;null;null;4.666666667;5;4.444444444;4;4;2.888888889;3.875
-Login estudiante16222;CRN-16675;null;null;null;null;3.666666667;4;2.666666667;3.5;4.5;4;3.125
-Login estudiante10672;CRN-16675;null;null;null;null;4;4;3.222222222;3.666666667;4;3.111111111;3
-Login estudiante10738;CRN-16675;null;null;null;null;3.666666667;2;3.111111111;2.333333333;3.5;4.333333333;4.75
-Login estudiante6617;CRN-16675;null;null;null;null;4;3;3.777777778;3.666666667;4;2.777777778;3.25
-Login estudiante8671;CRN-16675;null;null;null;null;3;1;3.333333333;2.833333333;3.5;2;2.625
-Login estudiante16228;CRN-16675;null;null;null;null;3.333333333;3;3.111111111;3;3;3;3
-Login estudiante12972;CRN-16675;null;null;null;null;5;3;2;3.833333333;4;3.555555556;4.25
-Login estudiante16231;CRN-16675;null;null;null;null;5;5;4.444444444;5;4;4.777777778;3.875
-Login estudiante2727;CRN-16675;null;null;null;null;3.666666667;3;3.555555556;4;3.5;2.777777778;3.75
-Login estudiante8272;CRN-16675;null;null;null;null;4.666666667;5;3.555555556;3.833333333;4;4.555555556;4.5
-Login estudiante6561;CRN-16675;null;null;null;null;3.333333333;5;2.444444444;3.666666667;4;4;3.25
-Login estudiante6603;CRN-16675;null;null;null;null;4;5;4.444444444;3.666666667;4.5;2.444444444;4.125
-Login estudiante16237;CRN-16675;null;null;null;null;3.666666667;3;2.666666667;3.833333333;4;3.888888889;3.875
-Login estudiante7232;CRN-16675;null;null;null;null;5;4;2.666666667;4.166666667;3.5;3.666666667;4.5
-Login estudiante7799;CRN-16675;null;null;null;null;3.666666667;4;2.888888889;4.166666667;4;3.222222222;4.25
-Login estudiante16241;CRN-16675;null;null;null;null;4;4;1.888888889;4;4.5;4.555555556;3.625
-Login estudiante16243;CRN-16675;null;null;null;null;4.666666667;4;3.111111111;4;4;3.777777778;4
-Login estudiante5180;CRN-16675;null;null;null;null;4.333333333;2;3;2.833333333;2.5;1.888888889;3.5
-Login estudiante10704;CRN-16675;null;null;null;null;5;4;2.444444444;4.166666667;4;4.222222222;4.125
-Login estudiante10746;CRN-16675;null;null;null;null;3;5;3.777777778;3;3;2.666666667;3.125
-Login estudiante13681;CRN-16675;null;null;null;null;3;3;2.888888889;2.833333333;2.5;2.888888889;2.875
-Login estudiante16249;CRN-16675;null;null;null;null;1.666666667;null;1.555555556;3.5;null;null;null
-Login estudiante5961;CRN-16675;null;null;null;null;4;3;2.666666667;2.666666667;3.5;2.555555556;3.125
-Login estudiante8284;CRN-16675;null;null;null;null;4.666666667;2;2.555555556;3.166666667;4;3.111111111;2.875
-Login estudiante13645;CRN-16675;null;null;null;null;4;2;3.555555556;3;3;3.333333333;3
-Login estudiante6626;CRN-16675;null;null;null;null;4.666666667;5;4.555555556;4;3;3.111111111;2.875
-Login estudiante7803;CRN-16675;null;null;null;null;4.333333333;5;3.888888889;4;4.5;3.777777778;3.75
-Login estudiante3887;CRN-16675;null;null;null;null;4;4;4.222222222;3.166666667;4;3.666666667;4
-Login estudiante10710;CRN-16675;null;null;null;null;5;4;4.666666667;4.666666667;4.5;4.777777778;4.625
-Login estudiante6897;CRN-16675;null;null;null;null;5;5;5;5;5;4.555555556;5
-Login estudiante10991;CRN-16675;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante4601;CRN-16675;null;null;null;null;3.666666667;4;3.666666667;3.666666667;3.5;3;3.25
-Login estudiante6037;CRN-16675;null;null;null;null;3.666666667;2;3;2.666666667;4;3.111111111;2.375
-Login estudiante7761;CRN-16675;null;null;null;null;5;5;5;5;5;5;5
-Login estudiante10749;CRN-16675;null;null;null;null;4;2;1.444444444;2.666666667;4;4;4
-Login estudiante10667;CRN-16675;null;null;null;null;4.666666667;1;3.666666667;3;4;2.888888889;2
-Login estudiante13301;CRN-16675;null;null;null;null;2.333333333;null;3.222222222;1.833333333;3.5;null;null
-Login estudiante16265;CRN-16675;null;null;null;null;5;4;5;5;4;5;5
-null;CRN-16676;null;null;null;null;4;5;2.222222222;5;5;5;4.625
-null;CRN-16676;null;null;null;null;4;5;1.222222222;3.166666667;4;2.555555556;3.25
-null;CRN-16676;null;null;null;null;3.333333333;4;3;2.833333333;3;3.333333333;3.125
-null;CRN-16676;null;null;null;null;4;5;3.777777778;4;4;4;4
-null;CRN-16676;null;null;null;null;4.5;5;3.444444444;4.5;3;3.555555556;5
-null;CRN-16676;null;null;null;null;5;5;4.888888889;5;5;5;5
-null;CRN-16676;null;null;null;null;4.5;5;4.111111111;5;5;4;5
-null;CRN-16676;null;null;null;null;5;null;null;null;null;null;null
-null;CRN-16676;null;null;null;null;3.666666667;4;1.555555556;3.666666667;3;3.222222222;3.75
-null;CRN-16676;null;null;null;null;5;5;5;5;5;5;5
-null;CRN-16676;null;null;null;null;4;4;3.555555556;4;4;4;4
-null;CRN-16676;null;null;null;null;5;4;3.111111111;3;2;4.444444444;4.875
-null;CRN-16676;null;null;null;null;4.5;5;4.333333333;3.333333333;3;3;3
-null;CRN-16676;null;null;null;null;5;5;5;5;5;5;5
-null;CRN-16676;null;null;null;null;5;5;2.222222222;5;5;4.666666667;5
-null;CRN-16676;null;null;null;null;4.5;5;4.111111111;5;5;5;5
-null;CRN-16676;null;null;null;null;4.5;null;1.888888889;null;null;null;null
-null;CRN-16676;null;null;null;null;4.333333333;5;4.666666667;4.666666667;3;4.888888889;4.75
-null;CRN-16676;null;null;null;null;5;5;1.555555556;2.166666667;3;3.777777778;3.125
-null;CRN-16676;null;null;null;null;null;null;null;null;null;null;null
-null;CRN-16676;null;null;null;null;3.5;5;3.222222222;4;4;4.111111111;3.875
-Login estudiante16582;CRN-16687;null;null;null;null;4.666666667;4;3.777777778;3.333333333;2;2.777777778;3
-Login estudiante12333;CRN-16687;null;null;null;null;3.666666667;4;2.777777778;3.5;2;3.333333333;3.25
-Login estudiante12354;CRN-16687;null;null;null;null;2;4;3.222222222;2.833333333;3;3.666666667;2.625
-Login estudiante16583;CRN-16687;null;null;null;null;4.666666667;5;2.111111111;5;5;4.888888889;4.75
-Login estudiante13070;CRN-16687;null;null;null;null;3.666666667;4;3.555555556;3.666666667;4;4.111111111;3.125
-Login estudiante16584;CRN-16687;null;null;null;null;4.666666667;4;3.222222222;3.5;4;4.111111111;3.5
-Login estudiante16585;CRN-16687;null;null;null;null;4;5;4.555555556;4;5;4.333333333;4
-Login estudiante16586;CRN-16687;null;null;null;null;4;5;3.111111111;2.666666667;4;4.111111111;1.375
-Login estudiante16587;CRN-16687;null;null;null;null;3;null;1.333333333;1.5;null;null;null
-Login estudiante16588;CRN-16687;null;null;null;null;4;4;3.222222222;4.166666667;4;4.666666667;3.625
-Login estudiante8562;CRN-16687;null;null;null;null;5;4;4.222222222;3.833333333;4;4.444444444;3.125
-Login estudiante16589;CRN-16687;null;null;null;null;3.333333333;null;null;null;null;null;null
-Login estudiante12347;CRN-16687;null;null;null;null;5;4;4;3.333333333;4;3.666666667;1.875
-Login estudiante2706;CRN-16687;null;null;null;null;4.333333333;1;1.444444444;2.166666667;1;4;1
-Login estudiante12381;CRN-16687;null;null;null;null;5;5;4.666666667;3.666666667;4;5;3.375
-Login estudiante12378;CRN-16687;null;null;null;null;3.666666667;3;1.555555556;3;2;3.222222222;1
-Login estudiante16590;CRN-16687;null;null;null;null;5;null;3;null;null;null;null
-Login estudiante16591;CRN-16687;null;null;null;null;4;null;null;null;null;null;null
-Login estudiante7169;CRN-16687;null;null;null;null;1;4;1;1;1;4.333333333;3.75
-Login estudiante16592;CRN-16687;null;null;null;null;3.666666667;1;3.222222222;3.666666667;2;3.777777778;2
-Login estudiante15890;CRN-16687;null;null;null;null;5;5;3.555555556;4.666666667;5;4.666666667;4.5
-Login estudiante15905;CRN-16687;null;null;null;null;3.666666667;3;2.666666667;3.666666667;4;3.666666667;3.125
-Login estudiante12236;CRN-16687;null;null;null;null;3.333333333;5;3.555555556;4;5;3.555555556;3.625
-Login estudiante12319;CRN-16687;null;null;null;null;5;null;null;null;null;null;null
-Login estudiante12374;CRN-16687;null;null;null;null;4;2;4;4;2;3.333333333;1.5
-Login estudiante16593;CRN-16687;null;null;null;null;3.666666667;5;3.888888889;3.166666667;3;4;2.375
-Login estudiante16594;CRN-16688;null;null;null;null;2;2;2.777777778;1.166666667;4;2.444444444;1.75
-Login estudiante7376;CRN-16688;null;null;null;null;4;4;2.666666667;1.833333333;1;2.222222222;2.375
-Login estudiante16595;CRN-16688;null;null;null;null;3;null;null;null;null;null;null
-Login estudiante12289;CRN-16688;null;null;null;null;3;2;2.111111111;2.333333333;4;2.666666667;2.375
-Login estudiante16596;CRN-16688;null;null;null;null;4.333333333;5;4.777777778;4.833333333;5;5;4.875
-Login estudiante16597;CRN-16688;null;null;null;null;3.666666667;4;1.666666667;4.166666667;4;3.666666667;3.75
-Login estudiante7401;CRN-16688;null;null;null;null;3.333333333;5;4.333333333;4;4;4.555555556;4.375
-Login estudiante16598;CRN-16688;null;null;null;null;4;null;4.333333333;3.833333333;4;null;null
-Login estudiante16599;CRN-16688;null;null;null;null;1;1;1;1;1;1;1
-Login estudiante16600;CRN-16688;null;null;null;null;3;null;2.444444444;3;null;null;null
-Login estudiante16601;CRN-16688;null;null;null;null;2;4;2.888888889;2.166666667;4;3.333333333;1.75
-Login estudiante4760;CRN-16688;null;null;null;null;2.666666667;2;3.333333333;3.166666667;3;3;3
-Login estudiante16602;CRN-16688;null;null;null;null;4;5;3.777777778;4.333333333;4;4.888888889;4.125
-Login estudiante16603;CRN-16688;null;null;null;null;3;3;4.333333333;2.333333333;2;2.333333333;3.875
-Login estudiante7386;CRN-16688;null;null;null;null;3.666666667;null;null;null;null;null;null
-Login estudiante16604;CRN-16688;null;null;null;null;2;5;2.333333333;1.833333333;2;4.444444444;2.75
-Login estudiante16605;CRN-16688;null;null;null;null;4.333333333;5;4.555555556;4.166666667;4;3.666666667;4.75
-Login estudiante16606;CRN-16688;null;null;null;null;3;4;2.555555556;2.666666667;2;2.444444444;3.625
-Login estudiante16607;CRN-16688;null;null;null;null;4.333333333;null;4.888888889;null;null;null;null
-Login estudiante6380;CRN-16688;null;null;null;null;3.333333333;5;3.222222222;3.5;4;4;3.5
-Login estudiante16608;CRN-16688;null;null;null;null;2;3;2.666666667;2.666666667;4;2.666666667;3.875
-Login estudiante16609;CRN-16688;null;null;null;null;5;5;4.555555556;4.666666667;4;3.888888889;4.625
-Login estudiante16610;CRN-16688;null;null;null;null;3;4;3;3.5;2;3.555555556;4.125
-Login estudiante3555;CRN-16688;null;null;null;null;4.666666667;5;4.555555556;4.833333333;5;2.444444444;5
-Login estudiante16594;CRN-16689;null;null;null;null;2;2;2.777777778;1.166666667;4;2.444444444;1.75
-Login estudiante7376;CRN-16689;null;null;null;null;4;4;2.666666667;1.833333333;1;2.222222222;2.375
-Login estudiante16595;CRN-16689;null;null;null;null;3;null;null;null;null;null;null
-Login estudiante12289;CRN-16689;null;null;null;null;3;2;2.111111111;2.333333333;4;2.666666667;2.375
-Login estudiante16596;CRN-16689;null;null;null;null;4.333333333;5;4.777777778;4.833333333;5;5;4.875
-Login estudiante16597;CRN-16689;null;null;null;null;3.666666667;4;1.666666667;4.166666667;4;3.666666667;3.75
-Login estudiante7401;CRN-16689;null;null;null;null;3.333333333;5;4.333333333;4;4;4.555555556;4.375
-Login estudiante16598;CRN-16689;null;null;null;null;4;null;4.333333333;3.833333333;4;null;null
-Login estudiante16599;CRN-16689;null;null;null;null;1;1;1;1;1;1;1
-Login estudiante16600;CRN-16689;null;null;null;null;3;null;2.444444444;3;null;null;null
-Login estudiante16601;CRN-16689;null;null;null;null;2;4;2.888888889;2.166666667;4;3.333333333;1.75
-Login estudiante4760;CRN-16689;null;null;null;null;2.666666667;2;3.333333333;3.166666667;3;3;3
-Login estudiante16602;CRN-16689;null;null;null;null;4;5;3.777777778;4.333333333;4;4.888888889;4.125
-Login estudiante16603;CRN-16689;null;null;null;null;3;3;4.333333333;2.333333333;2;2.333333333;3.875
-Login estudiante7386;CRN-16689;null;null;null;null;3.666666667;null;null;null;null;null;null
-Login estudiante16604;CRN-16689;null;null;null;null;2;5;2.333333333;1.833333333;2;4.444444444;2.75
-Login estudiante16605;CRN-16689;null;null;null;null;4.333333333;5;4.555555556;4.166666667;4;3.666666667;4.75
-Login estudiante16606;CRN-16689;null;null;null;null;3;4;2.555555556;2.666666667;2;2.444444444;3.625
-Login estudiante16607;CRN-16689;null;null;null;null;4.333333333;null;4.888888889;null;null;null;null
-Login estudiante6380;CRN-16689;null;null;null;null;3.333333333;5;3.222222222;3.5;4;4;3.5
-Login estudiante16608;CRN-16689;null;null;null;null;2;3;2.666666667;2.666666667;4;2.666666667;3.875
-Login estudiante16609;CRN-16689;null;null;null;null;5;5;4.555555556;4.666666667;4;3.888888889;4.625
-Login estudiante16610;CRN-16689;null;null;null;null;3;4;3;3.5;2;3.555555556;4.125
-Login estudiante3555;CRN-16689;null;null;null;null;4.666666667;5;4.555555556;4.833333333;5;2.444444444;5
-Login estudiante16636;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante11604;CRN-16690;null;null;null;null;3.333333333;null;1.25;2.166666667;3;2.333333333;2.375
-Login estudiante14980;CRN-16690;null;null;null;null;5;null;2.25;4.833333333;5;3.111111111;5
-Login estudiante13091;CRN-16690;null;null;null;null;5;null;4.625;5;4;3.333333333;4.875
-Login estudiante16637;CRN-16690;null;null;null;null;2.666666667;null;1.625;2;3;3.111111111;3.625
-Login estudiante7612;CRN-16690;null;null;null;null;4.666666667;null;5;3;4;2.333333333;4.25
-Login estudiante4571;CRN-16690;null;null;null;null;4.333333333;null;null;null;null;null;null
-Login estudiante16638;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16639;CRN-16690;null;null;null;null;4.666666667;null;3.625;4.166666667;3;3.555555556;4.125
-Login estudiante6518;CRN-16690;null;null;null;null;3;null;null;null;null;null;null
-Login estudiante9481;CRN-16690;null;null;null;null;3;null;1.25;3;3;3.777777778;2.25
-Login estudiante8080;CRN-16690;null;null;null;null;4.666666667;null;4.375;4;5;4.111111111;5
-Login estudiante7887;CRN-16690;null;null;null;null;4.666666667;null;5;5;3;4.444444444;5
-Login estudiante13101;CRN-16690;null;null;null;null;5;null;null;null;null;null;null
-Login estudiante6652;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16640;CRN-16690;null;null;null;null;5;null;3.125;3.666666667;3;3.666666667;3.875
-Login estudiante13093;CRN-16690;null;null;null;null;5;null;4.5;4.166666667;5;3.555555556;4
-Login estudiante16641;CRN-16690;null;null;null;null;4;null;3.25;3.833333333;4;4.222222222;4
-Login estudiante13095;CRN-16690;null;null;null;null;4.666666667;null;4.25;4;4;4;3.5
-Login estudiante7885;CRN-16690;null;null;null;null;2.666666667;null;3.125;2.833333333;5;4.111111111;2.875
-Login estudiante6713;CRN-16690;null;null;null;null;4;null;2.75;3;4;4;3.5
-Login estudiante16642;CRN-16690;null;null;null;null;5;null;3.75;4.5;5;4.444444444;5
-Login estudiante5275;CRN-16690;null;null;null;null;5;null;3.5;4.833333333;4;4.666666667;5
-Login estudiante13100;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16643;CRN-16690;null;null;null;null;4;null;1.75;4.666666667;4;3.111111111;2.875
-Login estudiante15469;CRN-16690;null;null;null;null;3;null;1.375;2.666666667;3;2.888888889;3.125
-Login estudiante14831;CRN-16690;null;null;null;null;5;null;4.75;5;5;5;5
-Login estudiante16644;CRN-16690;null;null;null;null;5;null;4.625;4.333333333;4;3.555555556;3.875
-Login estudiante16645;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante13449;CRN-16690;null;null;null;null;5;null;4.75;4;5;5;5
-Login estudiante16646;CRN-16690;null;null;null;null;5;null;2.5;3.666666667;2;2.888888889;3.75
-Login estudiante16647;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante9956;CRN-16690;null;null;null;null;5;null;3.25;null;null;null;null
-Login estudiante3303;CRN-16690;null;null;null;null;3.666666667;null;3.75;4.5;4;3.666666667;3.5
-Login estudiante16648;CRN-16690;null;null;null;null;4.333333333;null;4.125;null;null;null;null
-Login estudiante16649;CRN-16690;null;null;null;null;4.666666667;null;null;null;null;null;null
-Login estudiante16650;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16651;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16652;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16653;CRN-16690;null;null;null;null;4.333333333;null;2.25;2.5;4;3.222222222;3.25
-Login estudiante16654;CRN-16690;null;null;null;null;3;null;3.375;2.166666667;2;3.333333333;3
-Login estudiante12274;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16655;CRN-16690;null;null;null;null;4.666666667;null;3;4.166666667;4;4.111111111;2.5
-Login estudiante13078;CRN-16690;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante16656;CRN-16690;null;null;null;null;4.666666667;null;4;3.666666667;null;null;null
-Login estudiante10089;CRN-16690;null;null;null;null;5;null;5;4.666666667;5;4.777777778;5
-Login estudiante14869;CRN-16690;null;null;null;null;5;null;4.875;4.5;5;4.888888889;5
-Login estudiante9368;CRN-16690;null;null;null;null;4.666666667;null;3.625;3.833333333;5;4.444444444;4.625
-Login estudiante16657;CRN-16690;null;null;null;null;4;null;2.625;4;3;4.666666667;2.875
-Login estudiante16658;CRN-16690;null;null;null;null;4.666666667;null;3.375;3.833333333;3;3.666666667;2.875
-Login estudiante3811;CRN-16690;null;null;null;null;5;null;2.75;4;5;3.777777778;3.25
-null;CRN-16691;null;null;null;null;4.333333333;5;4.555555556;4.666666667;5;3.111111111;5
-null;CRN-16691;null;null;null;null;5;5;3.111111111;4.666666667;4;3.222222222;3.875
-null;CRN-16691;null;null;null;null;4.333333333;5;4.444444444;4;5;4;4.625
-null;CRN-16691;null;null;null;null;4;4;3.777777778;3.666666667;4;3.111111111;3.75
-null;CRN-16691;null;null;null;null;4;4;4.333333333;4;4;5;4.25
-null;CRN-16691;null;null;null;null;4.666666667;5;5;4.666666667;5;3;5
-null;CRN-16691;null;null;null;null;3.666666667;4;4;3.166666667;4;2.777777778;3.75
-Login estudiante16659;CRN-16691;null;null;null;null;3;null;3.666666667;3.166666667;null;null;null
-Login estudiante16660;CRN-16691;null;null;null;null;4;5;4.222222222;4;5;3.222222222;3.625
-Login estudiante10471;CRN-16691;null;null;null;null;4;4;4.888888889;4.333333333;4;3.666666667;4.25
-Login estudiante16661;CRN-16691;null;null;null;null;4.666666667;5;3.888888889;4.833333333;4;3.888888889;4.875
-Login estudiante5639;CRN-16691;null;null;null;null;4;5;3.555555556;4.166666667;5;4.222222222;4.25
-Login estudiante11235;CRN-16712;null;null;null;null;5;null;4;4.4;5;5;3.625
-Login estudiante5484;CRN-16712;null;null;null;null;2.666666667;null;2.8;3.6;null;null;null
-Login estudiante12261;CRN-16712;null;null;null;null;4.333333333;null;null;null;null;null;null
-Login estudiante4912;CRN-16712;null;null;null;null;4.666666667;null;2;3.6;4;2.6;3.25
-Login estudiante12257;CRN-16712;null;null;null;null;4.333333333;null;3.6;2.6;3;3;3
-Login estudiante4935;CRN-16712;null;null;null;null;4;null;3.2;4;3;3.2;3.75
-Login estudiante6110;CRN-16712;null;null;null;null;4;null;null;null;null;null;null
-Login estudiante12286;CRN-16712;null;null;null;null;1;null;2.6;1;1;3.6;1
-Login estudiante4035;CRN-16712;null;null;null;null;4;null;2;3.4;4;3;4
-Login estudiante12283;CRN-16712;null;null;null;null;5;null;4.2;3.6;4;null;null
-Login estudiante10434;CRN-16712;null;null;null;null;5;null;4;4;5;3;4.25
-Login estudiante16473;CRN-16712;null;null;null;null;4;null;3.2;4;4;3.8;null
-Login estudiante16474;CRN-16712;null;null;null;null;4.333333333;null;3.6;4;5;3.6;3.625
-Login estudiante16475;CRN-16712;null;null;null;null;3.666666667;null;3.6;2.8;4;3.4;2.875
-Login estudiante5025;CRN-16712;null;null;null;null;4;null;3.2;4;2;4.4;2.875
-Login estudiante15680;CRN-16712;null;null;null;null;4;null;3.4;3.6;4;3.6;4.75
-Login estudiante16476;CRN-16712;null;null;null;null;4;null;2.6;3.8;4;3.8;2.875
-Login estudiante16477;CRN-16712;null;null;null;null;1;null;1;2.4;3;3.4;4
-Login estudiante3911;CRN-16712;null;null;null;null;4.666666667;null;3.2;3.2;4;1.6;4
-Login estudiante6200;CRN-16712;null;null;null;null;5;null;3.6;3.2;4;2.6;3.375
-Login estudiante8782;CRN-16712;null;null;null;null;4;null;3;3.4;4;3.6;3.625
-Login estudiante3994;CRN-16712;null;null;null;null;5;null;5;4.8;5;5;5
-Login estudiante6260;CRN-16712;null;null;null;null;5;null;3;4;2;3.8;2.875
-Login estudiante16478;CRN-16712;null;null;null;null;4;null;4.4;3.8;5;4.6;4
-Login estudiante16479;CRN-16712;null;null;null;null;4.666666667;null;3.8;3;4;3.6;3.625
-Login estudiante12239;CRN-16714;null;null;null;null;5;5;2.888888889;3.5;4;4.222222222;4.125
-Login estudiante16466;CRN-16714;null;null;null;null;4.333333333;5;5;3.833333333;4;4.777777778;5
-Login estudiante16467;CRN-16714;null;null;null;null;4.333333333;null;null;null;null;null;null
-Login estudiante4852;CRN-16714;null;null;null;null;4.666666667;5;3.111111111;4.333333333;4;4.222222222;4.5
-Login estudiante4613;CRN-16714;null;null;null;null;3.666666667;null;3.888888889;4.333333333;4;null;null
-Login estudiante16468;CRN-16714;null;null;null;null;3;5;3.333333333;3.833333333;4;3.444444444;4.75
-Login estudiante12258;CRN-16714;null;null;null;null;5;5;5;5;5;5;5
-Login estudiante16469;CRN-16714;null;null;null;null;3;5;2.666666667;3.666666667;4;3.777777778;4
-Login estudiante12376;CRN-16719;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante15871;CRN-16719;null;null;null;null;4;5;4.222222222;4;4;4;4.125
-Login estudiante15873;CRN-16719;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante15874;CRN-16719;null;null;null;null;5;5;5;4;4;4.888888889;5
-Login estudiante15876;CRN-16719;null;null;null;null;4;5;2.333333333;3.833333333;4;3.111111111;4
-Login estudiante12377;CRN-16719;null;null;null;null;5;null;3;null;null;null;null
-Login estudiante15879;CRN-16719;null;null;null;null;4.333333333;null;null;null;null;null;null
-Login estudiante15881;CRN-16719;null;null;null;null;5;5;5;5;5;5;5
-Login estudiante15883;CRN-16719;null;null;null;null;5;5;3.777777778;4.5;3;4.333333333;5
-Login estudiante12339;CRN-16719;null;null;null;null;5;5;3.222222222;4.666666667;4;4.666666667;4.625
-Login estudiante15886;CRN-16719;null;null;null;null;3.666666667;4;2.111111111;3.666666667;2;3.666666667;4.75
-Login estudiante15888;CRN-16719;null;null;null;null;4;5;3.222222222;4.166666667;5;4;4.75
-Login estudiante15890;CRN-16719;null;null;null;null;5;5;4.555555556;4.833333333;5;4.888888889;4.375
-Login estudiante6495;CRN-16719;null;null;null;null;5;5;3.888888889;5;5;5;5
-Login estudiante15893;CRN-16719;null;null;null;null;4.333333333;5;2.777777778;3.833333333;5;3.777777778;4
-Login estudiante12255;CRN-16719;null;null;null;null;4;4;3.666666667;4;4;3.666666667;3.5
-Login estudiante15896;CRN-16719;null;null;null;null;5;5;5;4.5;5;4.888888889;4.875
-Login estudiante4407;CRN-16719;null;null;null;null;4.666666667;5;3;4;5;3.888888889;4.25
-Login estudiante11223;CRN-16719;null;null;null;null;4.333333333;5;3.777777778;4;4;3.777777778;4.75
-Login estudiante15900;CRN-16719;null;null;null;null;4;4;3.777777778;3.666666667;4;3.555555556;3.625
-Login estudiante12333;CRN-16719;null;null;null;null;null;null;null;null;null;null;null
-Login estudiante15902;CRN-16719;null;null;null;null;4.666666667;5;3.444444444;4.166666667;5;3.888888889;4.625
-Login estudiante6074;CRN-16719;null;null;null;null;4.666666667;5;3.333333333;5;5;5;5
-Login estudiante15905;CRN-16719;null;null;null;null;5;5;4.777777778;5;4;3.444444444;4.875
-Login estudiante10519;CRN-1781;COD1780;4.09;201720;1;4.333333333;5;4.111111111;4.666666667;5;4.222222222;4.625
-null;CRN-1781;COD1780;null;201720;1;4.666666667;5;4;4.833333333;5;4.222222222;5
-null;CRN-1781;COD1780;null;201720;1;5;5;4.444444444;5;5;4.111111111;4.625
-Login estudiante10583;CRN-1781;COD1780;3.65;201720;1;null;null;null;null;null;null;null
-null;CRN-1781;COD1780;null;201720;1;4.666666667;5;3.555555556;4;4;4.333333333;4.75
-Login estudiante13225;CRN-1781;COD1780;4.78;201720;1;4.666666667;5;4.333333333;4.666666667;5;4.222222222;4.375
-null;CRN-1781;COD1780;null;201720;1;4.666666667;5;4.888888889;5;5;5;5
-Login estudiante11908;CRN-1781;COD1780;2.74;201720;1;null;null;null;null;null;null;null
-Login estudiante10584;CRN-1781;COD1780;4.21;201720;1;4.666666667;5;5;4.833333333;5;4;5
-Login estudiante8090;CRN-1781;COD1780;4.2;201720;1;4.333333333;4;4.888888889;4.333333333;4;3.777777778;4.875
-Login estudiante13235;CRN-1888;COD1887;4.69;201720;1;null;null;null;null;null;null;null
-Login estudiante8107;CRN-1888;COD1887;4.35;201720;1;5;5;5;5;5;4.666666667;5
-Login estudiante13237;CRN-1888;COD1887;3.83;201720;1;null;null;null;null;null;null;null
-Login estudiante10526;CRN-1888;COD1887;4.64;201720;1;null;null;null;null;null;null;null
-Login estudiante12012;CRN-1888;COD1887;null;201720;1;4.666666667;5;4.555555556;4;4;5;4.875
-Login estudiante10566;CRN-1888;COD1887;4.87;201720;1;4.666666667;5;3.777777778;5;5;3.555555556;4.625
-Login estudiante13240;CRN-1888;COD1887;4.94;201720;1;5;5;4.888888889;4;4;3.888888889;5
-Login estudiante12014;CRN-1888;COD1887;4.78;201720;1;4.333333333;5;3;4.333333333;4;4.444444444;4.25
-Login estudiante13227;CRN-1888;COD1887;4.88;201720;1;4.333333333;5;3.777777778;4.166666667;4;1.888888889;2.375
-Login estudiante10567;CRN-1888;COD1887;4.64;201720;1;5;5;4.888888889;5;5;4.222222222;5
-Login estudiante10585;CRN-1888;COD1887;4.25;201720;1;4.666666667;5;4.777777778;5;5;4.222222222;5
-Login estudiante13231;CRN-1888;COD1887;4.43;201720;1;4.666666667;5;4.888888889;4.666666667;4;3.777777778;4.75
-Login estudiante11884;CRN-1888;COD1887;4.89;201720;1;5;5;4.666666667;4.833333333;5;4.222222222;5
-Login estudiante2510;CRN-1888;COD1887;4.82;201720;1;4.333333333;5;4.777777778;5;4;3.222222222;4.5
-Login estudiante10587;CRN-1888;COD1887;4.1;201720;1;4;4;3.777777778;3.833333333;3;2.555555556;3.875
-Login estudiante13236;CRN-1888;COD1887;4.84;201720;1;4;5;2.555555556;3.666666667;2;4.111111111;3
-Login estudiante6526;CRN-1888;COD1887;4.71;201720;1;5;5;3.333333333;5;3;2.444444444;4.125
-Login estudiante12023;CRN-1888;COD1887;4.63;201720;1;null;null;null;null;null;null;null
-Login estudiante8114;CRN-1888;COD1887;4.67;201720;1;5;5;4.888888889;4.833333333;5;5;4.75
-Login estudiante8095;CRN-1888;COD1887;4.41;201720;1;5;5;5;5;5;4.666666667;5
-Login estudiante10568;CRN-1888;COD1887;4.71;201720;1;4.666666667;5;4.888888889;5;5;4;4.875
-Login estudiante13230;CRN-1888;COD1887;4.29;201720;1;5;5;4.888888889;4.666666667;5;3.444444444;5
-Login estudiante13232;CRN-1888;COD1887;4.81;201720;1;5;5;4.666666667;4.666666667;5;4.444444444;4.25
-Login estudiante10582;CRN-1888;COD1887;4.6;201720;1;5;5;4.888888889;5;5;3.777777778;4.5
-Login estudiante13228;CRN-1888;COD1887;4.83;201720;1;4;5;1.888888889;2.166666667;1;1.333333333;1.625
-Login estudiante8096;CRN-1888;COD1887;4.44;201720;1;5;5;4.333333333;4.666666667;4;3.333333333;5
-Login estudiante10586;CRN-1888;COD1887;4.72;201720;1;null;null;null;null;null;null;null
-Login estudiante6525;CRN-1888;COD1887;4.52;201720;1;5;5;4.777777778;4.833333333;4;2.444444444;4.625
-Login estudiante8952;CRN-1897;COD1896;null;201720;4;null;null;null;null;null;null;null
-Login estudiante10595;CRN-1897;COD1896;null;201720;4;4;4;4;4;4;4.777777778;4.125
-Login estudiante10593;CRN-1897;COD1896;null;201720;4;null;null;null;null;null;null;null
-Login estudiante10604;CRN-1897;COD1896;null;201720;4;null;null;null;null;null;null;null
-null;CRN-1897;COD1896;null;201720;4;null;null;null;null;null;null;null
-Login estudiante8959;CRN-1897;COD1896;null;201720;4;null;null;null;null;null;null;null
-Login estudiante8957;CRN-1897;COD1896;null;201720;4;4;4;4.333333333;4;4;4;4
-Login estudiante8979;CRN-1897;COD1896;null;201720;4;3.666666667;4;3.888888889;4;4;4;4
-Login estudiante11933;CRN-1907;COD1906;4.31;201720;4;3.666666667;5;3.111111111;3.833333333;4;4;4
-Login estudiante11932;CRN-1907;COD1906;4.22;201720;4;null;null;null;null;null;null;null
-Login estudiante8966;CRN-1907;COD1906;3.91;201720;4;null;null;null;null;null;null;null
-null;CRN-1907;COD1906;null;201720;4;4;5;4;4.666666667;5;4.666666667;4.5
-Login estudiante8978;CRN-1907;COD1906;4.93;201720;4;5;4;1.666666667;4.333333333;5;4.222222222;2.875
-null;CRN-1907;COD1906;null;201720;4;null;null;null;null;null;null;null
-null;CRN-1907;COD1906;null;201720;4;4;5;3.444444444;4;4;4.666666667;3.625
-Login estudiante15220;CRN-1907;COD1906;4.04;201720;4;3.666666667;5;3.444444444;4.5;3;3.888888889;4.125
-Login estudiante15219;CRN-1907;COD1906;4.47;201720;4;null;null;null;null;null;null;null
-Login estudiante15217;CRN-1907;COD1906;4.6;201720;4;4.333333333;5;3;4.833333333;4;4.555555556;3.625
-Login estudiante8953;CRN-1924;COD1919;4.43;201720;4;4.666666667;5;2.222222222;5;5;5;5
-Login estudiante8958;CRN-1924;COD1919;4.45;201720;4;4.666666667;5;4.888888889;4.666666667;4;3.888888889;5
-Login estudiante8976;CRN-1924;COD1919;4.38;201720;4;4.333333333;5;4.666666667;4.5;4;4.111111111;4.375
-Login estudiante11923;CRN-1924;COD1919;4.8;201720;4;5;5;4.888888889;5;5;5;5
-Login estudiante11921;CRN-1924;COD1919;3.43;201720;4;4;4;2.111111111;3.666666667;4;4.666666667;4
-Login estudiante8980;CRN-1924;COD1919;4.72;201720;4;5;5;4.888888889;5;5;5;5
-Login estudiante8964;CRN-1924;COD1919;4.29;201720;4;4.333333333;5;4.888888889;4.833333333;5;4.111111111;5
-Login estudiante11919;CRN-1924;COD1919;3.33;201720;4;3.333333333;4;4.444444444;3.833333333;4;3.222222222;2.625
-Login estudiante11920;CRN-1924;COD1919;2.95;201720;4;2;3;1.222222222;2.666666667;2;2.666666667;2.25
-Login estudiante11922;CRN-1924;COD1919;3.58;201720;4;1.333333333;4;2.222222222;2.333333333;2;2.666666667;2.125
-Login estudiante8961;CRN-1931;COD1930;4.68;201720;4;3.333333333;4;2.625;4.333333333;4;3.444444444;3.25
-Login estudiante11928;CRN-1931;COD1930;4.06;201720;4;4.666666667;5;5;5;5;4.777777778;5
-Login estudiante15215;CRN-1931;COD1930;3.44;201720;4;4.666666667;4;4.111111111;4.5;4;3.555555556;4.125
-Login estudiante15907;CRN-2418;COD926;null;201720;1;4.333333333;5;3.444444444;4.833333333;5;3.444444444;5
-Login estudiante15909;CRN-2418;COD926;null;201720;1;3.333333333;null;null;null;null;null;null
-Login estudiante15911;CRN-2418;COD926;null;201720;1;4.666666667;4;3.555555556;4.166666667;4;3.555555556;4
-Login estudiante12381;CRN-2418;COD926;null;201720;1;5;null;5;null;null;null;null
-Login estudiante15914;CRN-2418;COD926;null;201720;1;4.333333333;4;3.888888889;4;5;3.777777778;3.875
-Login estudiante15916;CRN-2418;COD926;null;201720;1;4.666666667;null;null;null;null;null;null
-Login estudiante15918;CRN-2418;COD926;null;201720;1;5;5;2.777777778;4.666666667;4;4.111111111;3.875
-Login estudiante12367;CRN-2418;COD926;null;201720;1;4.666666667;null;4.333333333;null;null;null;null
-Login estudiante15921;CRN-2418;COD926;null;201720;1;null;null;null;null;null;null;null
-Login estudiante7352;CRN-2418;COD926;null;201720;1;3.666666667;5;3.888888889;4.333333333;5;4.444444444;4
-Login estudiante15923;CRN-2418;COD926;null;201720;1;null;null;null;null;null;null;null
-Login estudiante15924;CRN-2418;COD926;null;201720;1;5;null;null;null;null;null;null
-Login estudiante15926;CRN-2418;COD926;null;201720;1;5;5;3.777777778;5;5;4.111111111;5
-Login estudiante11832;CRN-2424;COD1699;4.1;201720;4;4;5;2.888888889;3.333333333;3;5;5
-Login estudiante11825;CRN-2424;COD1699;4.26;201720;4;3.666666667;5;3.888888889;4;4;5;5
-Login estudiante11827;CRN-2424;COD1699;3.98;201720;4;3.666666667;5;4.444444444;4;5;4;4
-Login estudiante11866;CRN-2424;COD1699;4.31;201720;4;4.666666667;5;4.777777778;4.833333333;5;4.444444444;5
-Login estudiante11830;CRN-2424;COD1699;3.73;201720;4;3.666666667;5;3.777777778;3;4;4;4
-Login estudiante11829;CRN-2424;COD1699;3.45;201720;4;3;5;2.666666667;4;4;2.888888889;3.875
-Login estudiante11828;CRN-2424;COD1699;4.31;201720;4;4;5;3.666666667;3.666666667;4;4;4.625
-null;CRN-337;COD333;null;201720;3;4;3;2.777777778;3.5;4;3.444444444;3
-null;CRN-337;COD333;null;201720;3;1;4;4.555555556;4.833333333;5;4.333333333;4.125
-null;CRN-337;COD333;null;201720;3;3;1;3;3;3;1;1
-null;CRN-337;COD333;null;201720;3;4;5;3.777777778;4.166666667;4;5;5
-null;CRN-337;COD333;null;201720;3;4;3;3.555555556;3.666666667;4;4.666666667;3.5
-null;CRN-337;COD333;null;201720;3;3;4;3;4;4;4;3.5
-null;CRN-337;COD333;null;201720;3;3.666666667;4;3;3.666666667;4;3.888888889;3.375
-null;CRN-337;COD333;null;201720;3;4;4;1.555555556;3.333333333;4;4;4
-null;CRN-337;COD333;null;201720;3;5;5;5;5;5;5;5
-null;CRN-337;COD333;null;201720;3;3;3;2.111111111;3.833333333;4;3.333333333;3.75
-null;CRN-337;COD333;null;201720;3;4.333333333;4;2.666666667;4;4;4.444444444;3.75
-null;CRN-337;COD333;null;201720;3;4.333333333;4;2.333333333;4;4;4.444444444;4.875
-null;CRN-337;COD333;null;201720;3;3.333333333;4;4;3.666666667;4;4;4
-null;CRN-337;COD333;null;201720;3;null;null;null;null;null;null;null
-null;CRN-337;COD333;null;201720;3;3.333333333;3;1.555555556;3.666666667;3;4;2.875
-null;CRN-337;COD333;null;201720;3;2.666666667;3;3.666666667;3.833333333;3;3.333333333;3.625
-null;CRN-337;COD333;null;201720;3;4.333333333;null;4.444444444;null;null;null;null
-null;CRN-337;COD333;null;201720;3;4;4;3.222222222;4;4;4.222222222;3.5
-null;CRN-337;COD333;null;201720;3;3;2;2;3.333333333;2;3.888888889;1.625
-null;CRN-337;COD333;null;201720;3;3;null;null;null;null;null;null
-null;CRN-337;COD333;null;201720;3;3.333333333;2;2.666666667;3.5;2;3.555555556;2.125
-null;CRN-337;COD333;null;201720;3;4;4;3.666666667;4;3;4.555555556;3.5
-null;CRN-337;COD333;null;201720;3;4.666666667;1;1.555555556;3.333333333;2;4;1.375
-null;CRN-337;COD333;null;201720;3;4.333333333;2;4.222222222;5;3;4.777777778;5
-null;CRN-337;COD333;null;201720;3;5;null;4.666666667;null;null;null;null
-null;CRN-337;COD333;null;201720;3;4.333333333;2;2.888888889;3.5;3;3.777777778;3.5
-null;CRN-337;COD333;null;201720;3;4.333333333;3;4.777777778;4.166666667;4;3.444444444;4.375
-null;CRN-337;COD333;null;201720;3;2.666666667;5;3;3.833333333;4;3.333333333;4
-null;CRN-337;COD333;null;201720;3;4.333333333;3;2.888888889;3.666666667;4;4.222222222;4
-null;CRN-337;COD333;null;201720;3;3.666666667;3;3.222222222;3.666666667;3;4.888888889;3.25
-null;CRN-337;COD333;null;201720;3;4;4;4;4;4;4;4
-null;CRN-337;COD333;null;201720;3;2.666666667;3;2.555555556;2.666666667;2;4.555555556;1.5
-null;CRN-337;COD333;null;201720;3;3;2;2.888888889;4;2;3.222222222;3.625
-null;CRN-337;COD333;null;201720;3;3.666666667;4;2.888888889;3.5;4;4.555555556;3.625
-null;CRN-337;COD333;null;201720;3;4;2;2;3.333333333;3;2.666666667;2.125
-null;CRN-337;COD333;null;201720;3;4.333333333;4;2.333333333;4.166666667;4;4.666666667;3
-null;CRN-337;COD333;null;201720;3;4;4;3.555555556;4;4;3.777777778;3.875
-null;CRN-337;COD333;null;201720;3;4.333333333;4;4.111111111;4.666666667;4;4.777777778;4.625
-null;CRN-337;COD333;null;201720;3;3.666666667;2;2.777777778;3.333333333;4;3.555555556;2.875
-null;CRN-337;COD333;null;201720;3;2.666666667;4;1.777777778;2.5;4;3.333333333;2.625
-null;CRN-337;COD333;null;201720;3;4;4;4.444444444;5;4;4.666666667;4.75
-null;CRN-337;COD333;null;201720;3;3.666666667;4;2.222222222;3.666666667;3;4.222222222;4
-null;CRN-337;COD333;null;201720;3;3.333333333;1;2.444444444;1.833333333;2;1.333333333;1.5
-null;CRN-337;COD333;null;201720;3;2;4;1.222222222;3;4;3.222222222;3
-null;CRN-337;COD333;null;201720;3;4;3;2;3;3;3.555555556;2.875
-null;CRN-337;COD333;null;201720;3;4;1;3.777777778;4;4;3.666666667;3.375
-null;CRN-337;COD333;null;201720;3;3.666666667;null;null;null;null;null;null
-null;CRN-337;COD333;null;201720;3;4.666666667;4;3.555555556;4.166666667;4;3.444444444;2.875
-null;CRN-337;COD333;null;201720;3;4;4;3.333333333;4.666666667;4;4.444444444;4.375
-null;CRN-337;COD333;null;201720;3;3.666666667;3;3.666666667;4.5;3;3.111111111;3.625
-null;CRN-337;COD333;null;201720;3;4.666666667;5;3.444444444;4.833333333;4;4.444444444;4.875
-null;CRN-337;COD333;null;201720;3;3.666666667;3;2.666666667;3.5;3;4.555555556;3.625
-null;CRN-337;COD333;null;201720;3;4;3;2.222222222;4.333333333;4;4.555555556;4.375
-null;CRN-337;COD333;null;201720;3;3.666666667;3;3.444444444;4.333333333;3;4.666666667;4.375
-null;CRN-337;COD333;null;201720;3;4;5;2.222222222;4.5;4;4.444444444;4.5
-null;CRN-337;COD333;null;201720;3;5;5;4.111111111;4.666666667;5;5;4.875
-null;CRN-337;COD333;null;201720;3;2;3;3.111111111;2.5;4;3.111111111;2.75
-null;CRN-337;COD333;null;201720;3;2.666666667;3;2.777777778;3.333333333;3;3.333333333;2.375
-null;CRN-502;COD500;null;201720;3;5;5;1.333333333;3.5;4;3.666666667;3.875
-null;CRN-502;COD500;null;201720;3;4.333333333;5;3.222222222;4.166666667;4;4.333333333;3.375
-null;CRN-502;COD500;null;201720;3;5;3;3.333333333;3;3;3;3.125
-null;CRN-502;COD500;null;201720;3;4.666666667;5;2.888888889;4.333333333;2;4.666666667;4
-null;CRN-502;COD500;null;201720;3;3.666666667;5;2.888888889;3.666666667;3;2.666666667;2.875
-null;CRN-502;COD500;null;201720;3;5;5;2.222222222;4.833333333;4;3.888888889;4
-null;CRN-502;COD500;null;201720;3;4.333333333;null;null;null;null;null;null
-null;CRN-502;COD500;null;201720;3;4;5;0.888888889;2.666666667;3;3;1.375
-null;CRN-502;COD500;null;201720;3;5;5;4.888888889;5;5;5;5
-null;CRN-502;COD500;null;201720;3;2.666666667;2;3.333333333;3;4;3;2.75
-null;CRN-502;COD500;null;201720;3;4.666666667;4;4;4;4;4;3.125
-null;CRN-502;COD500;null;201720;3;5;5;3.666666667;5;5;4.555555556;5
-null;CRN-502;COD500;null;201720;3;3.333333333;4;3.555555556;3.333333333;4;3.555555556;3.5
-null;CRN-502;COD500;null;201720;3;2.333333333;5;2;2.333333333;4;2.444444444;2.75
-null;CRN-502;COD500;null;201720;3;4;5;2.888888889;3.333333333;4;4.555555556;2.875
-null;CRN-502;COD500;null;201720;3;4;4;4.555555556;4;4;4.555555556;4.5
-null;CRN-502;COD500;null;201720;3;4;2;2.777777778;3.166666667;2;2.333333333;2.625
-null;CRN-502;COD500;null;201720;3;4;4;4;4;4;4;4
-null;CRN-502;COD500;null;201720;3;4.666666667;null;null;null;null;null;null
-null;CRN-502;COD500;null;201720;3;4.333333333;3;3.666666667;4;4;4;4
-null;CRN-502;COD500;null;201720;3;5;5;2.777777778;5;5;5;3.75
-null;CRN-502;COD500;null;201720;3;4.666666667;5;4.666666667;4;3;4;4.625
-null;CRN-502;COD500;null;201720;3;5;5;2.666666667;4.333333333;5;4.555555556;4.25
-null;CRN-502;COD500;null;201720;3;4.666666667;5;3.111111111;4.166666667;5;3.666666667;2.625
-null;CRN-502;COD500;null;201720;3;4.666666667;4;4.222222222;4.666666667;3;4;3.75
-null;CRN-502;COD500;null;201720;3;5;null;null;null;null;null;null
-null;CRN-502;COD500;null;201720;3;5;5;4.444444444;5;5;5;4.625
-null;CRN-502;COD500;null;201720;3;4;null;1.666666667;4;4;3.222222222;null
-null;CRN-502;COD500;null;201720;3;4;4;4;4;4;4;4
-null;CRN-502;COD500;null;201720;3;4;1;2.333333333;4;2;2.888888889;2.5
-null;CRN-502;COD500;null;201720;3;4.666666667;5;2.444444444;5;4;4.555555556;3
-null;CRN-502;COD500;null;201720;3;5;4;5;4;5;4;3.375
-null;CRN-502;COD500;null;201720;3;4.666666667;1;3.111111111;4.666666667;3;4.555555556;3
-null;CRN-502;COD500;null;201720;3;3.666666667;5;2.444444444;3.333333333;4;3.333333333;1.75
-null;CRN-502;COD500;null;201720;3;4.666666667;5;3.222222222;4.333333333;4;3.888888889;3.875
-null;CRN-502;COD500;null;201720;3;4;4;4.555555556;4;4;4;4
-null;CRN-502;COD500;null;201720;3;3.666666667;5;3.111111111;4.5;5;2.444444444;5
-null;CRN-502;COD500;null;201720;3;5;5;1.777777778;3.666666667;4;3.777777778;2.375
-null;CRN-502;COD500;null;201720;3;4.333333333;5;4.111111111;3.5;5;3.555555556;3.625
-null;CRN-502;COD500;null;201720;3;4.666666667;4;2;4.5;3;3;4.625
-null;CRN-502;COD500;null;201720;3;4.666666667;5;3.444444444;4.166666667;5;4.777777778;2.75
-null;CRN-502;COD500;null;201720;3;5;5;3.777777778;4.666666667;3;4.777777778;4.125
-null;CRN-502;COD500;null;201720;3;2.666666667;4;4.111111111;4;1;3.666666667;1.5
-null;CRN-502;COD500;null;201720;3;3.666666667;4;4;4;4;4;4
-null;CRN-502;COD500;null;201720;3;4;5;3.111111111;3.166666667;3;3.222222222;3
-null;CRN-502;COD500;null;201720;3;3.333333333;5;3.555555556;3.666666667;4;4.111111111;4.875
-null;CRN-502;COD500;null;201720;3;4.666666667;5;4.111111111;3.833333333;4;3.444444444;3.125
-null;CRN-502;COD500;null;201720;3;4;null;2.777777778;3.333333333;3;2.666666667;null
-null;CRN-502;COD500;null;201720;3;4;5;3.888888889;4;4;4;4
-null;CRN-502;COD500;null;201720;3;2;5;1.666666667;2;3;2.444444444;2.25
-null;CRN-502;COD500;null;201720;3;3.666666667;5;3.777777778;3.666666667;4;4;3
-null;CRN-502;COD500;null;201720;3;4;4;3.777777778;3.5;4;4;4
-null;CRN-502;COD500;null;201720;3;4.666666667;4;3.111111111;4.5;3;2.888888889;3.375
-null;CRN-502;COD500;null;201720;3;2.666666667;5;1.777777778;4;4;4;3.5
-null;CRN-502;COD500;null;201720;3;5;4;5;5;3;4;3.125
-null;CRN-502;COD500;null;201720;3;4.333333333;5;3.666666667;4.5;4;3.333333333;3.25
-Login estudiante5402;CRN-515;COD514;4.64;201720;1;5;5;5;5;5;4.555555556;5
-Login estudiante9333;CRN-515;COD514;4.57;201720;1;4.666666667;5;5;5;5;5;5
-Login estudiante12549;CRN-515;COD514;3.77;201720;1;5;null;4.75;4.833333333;5;4.555555556;5
-Login estudiante6788;CRN-515;COD514;4.69;201720;1;4.333333333;5;2.375;4.5;4;3.444444444;3.875
-Login estudiante12554;CRN-515;COD514;4.66;201720;1;4;5;2;4;4;4;3.875
-Login estudiante12401;CRN-515;COD514;4.42;201720;1;4.333333333;5;4.375;4.833333333;5;3.888888889;4.625
-Login estudiante12551;CRN-515;COD514;3.43;201720;1;5;5;5;4;5;3.888888889;4
-Login estudiante12552;CRN-515;COD514;4.81;201720;1;null;null;null;null;null;null;null
-Login estudiante12553;CRN-515;COD514;4.88;201720;1;5;5;4.875;4;5;3.555555556;5
-Login estudiante12620;CRN-548;COD547;4.14;201720;1;4.666666667;5;3.777777778;5;5;4.444444444;5
-Login estudiante3418;CRN-548;COD547;4.36;201720;1;4.666666667;4;4.333333333;4.5;5;4.222222222;4.5
-Login estudiante12602;CRN-548;COD547;4.65;201720;1;4;5;3;3.833333333;5;3.555555556;4
-Login estudiante12622;CRN-548;COD547;3.95;201720;1;4;4;1.666666667;4;2;3.444444444;4
-Login estudiante12598;CRN-548;COD547;4.39;201720;1;4.666666667;5;4;4.666666667;2;4;4.5
-Login estudiante12623;CRN-548;COD547;3.98;201720;1;3.666666667;5;3;4.166666667;3;4;4.375
-Login estudiante12597;CRN-548;COD547;4.21;201720;1;5;5;5;5;5;5;5
-Login estudiante12593;CRN-548;COD547;4.39;201720;1;3.333333333;5;4.444444444;4.666666667;4;4.333333333;4.625
-Login estudiante11340;CRN-548;COD547;4.71;201720;1;4;5;2.777777778;3.833333333;3;3.555555556;3.25
-Login estudiante6349;CRN-548;COD547;3.95;201720;1;3.333333333;4;2;3.666666667;2;3;4.375
-Login estudiante12619;CRN-548;COD547;4.78;201720;1;4.333333333;5;4.444444444;4.833333333;5;3.555555556;5
-Login estudiante4812;CRN-548;COD547;4.83;201720;1;3.666666667;null;null;null;null;null;null
-Login estudiante12611;CRN-548;COD547;3.49;201720;1;5;5;2.222222222;5;5;5;5
-Login estudiante12615;CRN-548;COD547;4.66;201720;1;3.333333333;5;3;3.5;3;4;4.375
-Login estudiante12603;CRN-548;COD547;4.4;201720;1;3.666666667;5;2.222222222;4;4;4.444444444;3.125
-Login estudiante3777;CRN-548;COD547;3.91;201720;1;null;null;null;null;null;null;null
-Login estudiante12607;CRN-548;COD547;3.7;201720;1;3.666666667;null;null;null;null;null;null
-Login estudiante3792;CRN-548;COD547;3.92;201720;1;4;5;2.777777778;4.5;4;3.888888889;3.75
-Login estudiante4864;CRN-548;COD547;4.21;201720;1;4;5;2.666666667;3.333333333;3;2.888888889;4.125
-Login estudiante12601;CRN-548;COD547;4.28;201720;1;1;5;3.555555556;3.833333333;3;3;3.75
-Login estudiante12596;CRN-548;COD547;4.12;201720;1;4;null;3.222222222;4;4;null;null
-Login estudiante12621;CRN-548;COD547;3.89;201720;1;4.666666667;5;4.444444444;4.666666667;5;4.222222222;5
-Login estudiante5072;CRN-548;COD547;3.89;201720;1;2.666666667;5;3;3.166666667;2;3.555555556;3.5
-Login estudiante12608;CRN-548;COD547;4.52;201720;1;4;4;4.555555556;3.833333333;3;3.888888889;4
-Login estudiante2980;CRN-548;COD547;4.39;201720;1;3.333333333;5;2.111111111;4.666666667;3;3.777777778;4.875
-Login estudiante12605;CRN-548;COD547;4.37;201720;1;4.666666667;5;4.888888889;5;4;5;5
-Login estudiante12606;CRN-548;COD547;4.08;201720;1;3;5;3.222222222;4.166666667;2;4;3.875
-Login estudiante12612;CRN-548;COD547;4.36;201720;1;3;4;2.888888889;4.166666667;4;3.222222222;4.125
-Login estudiante12610;CRN-548;COD547;4.67;201720;1;4;5;4.111111111;4;4;3.777777778;4.25
-Login estudiante12604;CRN-548;COD547;4.53;201720;1;3;4;3;3.333333333;3;3;2.375
-Login estudiante11140;CRN-560;COD558;4.65;201720;1;4.666666667;4;1.666666667;4.333333333;5;4.444444444;3.75
-Login estudiante13445;CRN-560;COD558;4.5;201720;1;5;4;3.333333333;4;2;4;4
-Login estudiante8369;CRN-560;COD558;4.7;201720;1;5;5;4.444444444;5;5;3.555555556;4.375
-Login estudiante3740;CRN-560;COD558;4.45;201720;1;5;5;1.888888889;4.166666667;4;4.222222222;3.75
-Login estudiante8005;CRN-560;COD558;4.5;201720;1;1;3;1.888888889;1;1;1;1
-Login estudiante8618;CRN-560;COD558;4;201720;1;5;5;5;5;5;4.888888889;4.75
-Login estudiante15068;CRN-560;COD558;4.1;201720;1;5;5;2.555555556;5;5;4.444444444;5
-Login estudiante7295;CRN-560;COD558;4.7;201720;1;4;null;3.444444444;3.5;null;null;null
-Login estudiante4223;CRN-560;COD558;4.45;201720;1;5;5;5;5;4;4.111111111;5
-Login estudiante14133;CRN-560;COD558;4.3;201720;1;5;4;4.444444444;4;4;4;4.375
-Login estudiante10826;CRN-560;COD558;4.6;201720;1;4.666666667;5;4.333333333;5;5;4.666666667;4.625
-Login estudiante13689;CRN-560;COD558;4.55;201720;1;5;5;2;5;5;4.444444444;5
-Login estudiante13730;CRN-560;COD558;4.2;201720;1;4;5;5;4.666666667;5;4;4
-Login estudiante15057;CRN-560;COD558;4.75;201720;1;4.666666667;null;5;5;3;3;null
-Login estudiante11010;CRN-560;COD558;3.85;201720;1;5;null;null;null;null;null;null
-Login estudiante15066;CRN-560;COD558;4.5;201720;1;3;null;null;null;null;null;null
-Login estudiante11311;CRN-560;COD558;4.4;201720;1;3.333333333;3;2.444444444;3.5;3;3;3.75
-Login estudiante15052;CRN-560;COD558;3.75;201720;1;3;5;1.222222222;3.166666667;2;3.222222222;3.375
-Login estudiante8621;CRN-560;COD558;4.25;201720;1;4.333333333;5;4.444444444;5;5;4.888888889;4.5
-Login estudiante7311;CRN-560;COD558;4.8;201720;1;5;5;3.222222222;5;5;4;5
-Login estudiante9026;CRN-560;COD558;4.6;201720;1;4.666666667;5;4.888888889;5;4.5;5;4.75
-Login estudiante7038;CRN-560;COD558;4.55;201720;1;5;5;5;5;5;5;5
-Login estudiante11285;CRN-560;COD558;4.5;201720;1;4.666666667;5;2.666666667;5;3.5;3.444444444;3.75
-Login estudiante7007;CRN-560;COD558;4.4;201720;1;5;5;4.444444444;5;5;5;5
-Login estudiante15073;CRN-560;COD558;4.8;201720;1;3.666666667;4;1.444444444;3.5;3.5;3.666666667;3.75
-Login estudiante14534;CRN-560;COD558;4.2;201720;1;5;2;4.666666667;5;5;4.888888889;4.375
-Login estudiante7372;CRN-560;COD558;4.45;201720;1;4.333333333;5;3.888888889;4.666666667;4.5;4.666666667;4.375
-Login estudiante12686;CRN-560;COD558;4.8;201720;1;4.333333333;4;3.444444444;3.666666667;1.5;4.333333333;3
-Login estudiante9368;CRN-560;COD558;4.6;201720;1;1;5;1.222222222;1;1;4.555555556;5
-Login estudiante4047;CRN-560;COD558;4.55;201720;1;5;4;3.333333333;4;4;4;4
-Login estudiante15058;CRN-560;COD558;4.7;201720;1;4.333333333;null;1.666666667;3.166666667;null;null;null
-Login estudiante15070;CRN-560;COD558;4.8;201720;1;5;5;2.222222222;5;5;5;5
-Login estudiante5063;CRN-560;COD558;4.55;201720;1;3.666666667;5;3.666666667;3.333333333;4;3.888888889;3
-Login estudiante8039;CRN-560;COD558;4.75;201720;1;5;5;5;4;5;4;4.5
-Login estudiante4045;CRN-560;COD558;4.4;201720;1;5;5;1.888888889;4.833333333;4;3;4.875
-Login estudiante4833;CRN-560;COD558;4.55;201720;1;5;5;4.333333333;5;4.5;4.444444444;4.125
-Login estudiante15054;CRN-560;COD558;3.25;201720;1;5;5;2.777777778;4.666666667;5;5;5
-Login estudiante7639;CRN-560;COD558;4.55;201720;1;4;5;4;4;4;4;4
-Login estudiante7313;CRN-560;COD558;4.7;201720;1;5;5;5;5;5;4.666666667;5
-Login estudiante8066;CRN-560;COD558;4.8;201720;1;3;null;null;null;null;null;null
-Login estudiante15069;CRN-560;COD558;4.6;201720;1;5;5;3.555555556;4.666666667;5;4.666666667;5
-Login estudiante6901;CRN-560;COD558;3.85;201720;1;5;5;2.666666667;4.666666667;4.5;3.888888889;3.625
-Login estudiante6556;CRN-560;COD558;4.55;201720;1;4.666666667;5;5;5;4;5;5
-Login estudiante11477;CRN-718;COD716;4.29;201720;1;4.666666667;5;2.555555556;5;4;4.555555556;4.875
-Login estudiante14979;CRN-718;COD716;4.56;201720;1;4.333333333;5;2.666666667;4.833333333;3;2.777777778;4.375
-Login estudiante14982;CRN-718;COD716;4.51;201720;1;5;5;4.666666667;5;4;4.888888889;5
-Login estudiante3849;CRN-718;COD716;3.15;201720;1;null;null;null;null;null;null;null
-Login estudiante14987;CRN-718;COD716;4.46;201720;1;4;5;4.444444444;4.666666667;4;4.333333333;4.75
-Login estudiante14986;CRN-718;COD716;4.04;201720;1;5;5;4.333333333;4.666666667;5;4.666666667;5
-Login estudiante5256;CRN-718;COD716;4.54;201720;1;4.666666667;4;2.888888889;3.833333333;4;4.777777778;4.125
-Login estudiante11421;CRN-718;COD716;4.37;201720;1;4.666666667;5;4.777777778;5;5;4.777777778;4.75
-Login estudiante9436;CRN-718;COD716;4.4;201720;1;4;5;3.444444444;4.333333333;5;4.444444444;4.5
-Login estudiante16214;CRN-718;COD716;null;201720;1;null;null;null;null;null;null;null
-Login estudiante7014;CRN-718;COD716;3.91;201720;1;5;5;4.888888889;4.666666667;3;4.333333333;4.625
-Login estudiante10071;CRN-718;COD716;4.2;201720;1;4.333333333;5;1.555555556;4;4;3.222222222;3.75
-Login estudiante5219;CRN-718;COD716;4.31;201720;1;3;4;2;2.666666667;1;3;2.5
-Login estudiante7347;CRN-718;COD716;4;201720;1;3.333333333;5;1.333333333;3;2;3.111111111;2.5
-Login estudiante14964;CRN-749;COD745;3.69;201720;1;5;4;2.666666667;4.666666667;5;4.444444444;5
-Login estudiante4799;CRN-749;COD745;4;201720;1;4;5;4.444444444;4;4;4.666666667;4
-Login estudiante5595;CRN-749;COD745;4.24;201720;1;4;5;3.777777778;4;4;3.666666667;4
-Login estudiante14962;CRN-749;COD745;4.25;201720;1;2.333333333;5;3.777777778;2.166666667;3;3.777777778;3.625
-Login estudiante7075;CRN-749;COD745;4;201720;1;3.666666667;5;5;4.5;5;5;5
-Login estudiante14958;CRN-749;COD745;3.8;201720;1;2;3;3.111111111;1;4;3.888888889;3.375
-Login estudiante7011;CRN-749;COD745;4.03;201720;1;4;5;3.444444444;4;4;3.333333333;4
-Login estudiante14968;CRN-749;COD745;3.47;201720;1;4;4;4;4;4;3.888888889;4
-Login estudiante6103;CRN-749;COD745;4.1;201720;1;4.333333333;5;4;5;5;3.888888889;5
-Login estudiante5560;CRN-749;COD745;4.25;201720;1;3;5;3.222222222;3.166666667;4;3.888888889;4
-Login estudiante3983;CRN-749;COD745;3.91;201720;1;3.333333333;4;2;2.833333333;5;3.666666667;3.75
-Login estudiante14959;CRN-749;COD745;4.52;201720;1;4.333333333;4;3.666666667;3;4;3.888888889;3.875
-Login estudiante14966;CRN-749;COD745;4.1;201720;1;3;5;2.666666667;4;5;4.888888889;4.875
-Login estudiante10854;CRN-749;COD745;3.81;201720;1;4.333333333;5;4.444444444;5;5;4.666666667;5
-Login estudiante14960;CRN-749;COD745;3.79;201720;1;3;4;3.666666667;3.666666667;4;3.666666667;3.75
-Login estudiante14965;CRN-749;COD745;4.13;201720;1;4;4;2.111111111;3;4;3.666666667;3.25
-Login estudiante9904;CRN-749;COD745;3.98;201720;1;2.666666667;5;4.222222222;4;5;5;5
-Login estudiante14963;CRN-749;COD745;3.85;201720;1;3;5;3.222222222;2.166666667;4;4;4
-Login estudiante3457;CRN-749;COD745;4.34;201720;1;3.333333333;5;4.555555556;3.333333333;5;4.888888889;5
-Login estudiante3523;CRN-749;COD745;3.77;201720;1;4;4;3.222222222;3.833333333;2;2.666666667;3.5
-Login estudiante14967;CRN-749;COD745;4.4;201720;1;3.333333333;4;2.555555556;3.5;4;3.666666667;3.75
-Login estudiante11434;CRN-749;COD745;4.79;201720;1;2.666666667;5;3.333333333;3.333333333;5;4.222222222;5
-Login estudiante10886;CRN-749;COD745;4.01;201720;1;3;5;4;3.666666667;5;4.444444444;4.25
-Login estudiante7916;CRN-749;COD745;4.83;201720;1;3.333333333;5;4.111111111;4.166666667;4;4;4.875
-Login estudiante14961;CRN-749;COD745;4.21;201720;1;4.333333333;4;3.666666667;4;4;3.777777778;4
-Login estudiante4490;CRN-749;COD745;3.84;201720;1;3.666666667;4;2.888888889;3.166666667;4;3;3.25
-Login estudiante8572;CRN-749;COD745;3.91;201720;1;4;5;3.111111111;4.166666667;5;4.666666667;4.625
-Login estudiante7992;CRN-757;COD755;4.19;201720;1;4.75;3;4.222222222;4.571428571;4.5;4.444444444;3.375
-Login estudiante13133;CRN-757;COD755;4.78;201720;1;5;5;4;4;5;5;3.75
-Login estudiante12733;CRN-757;COD755;3.98;201720;1;3.75;4;2.888888889;4;4;3.666666667;4
-null;CRN-757;COD755;null;201720;1;4.5;null;null;null;null;null;null
-Login estudiante13124;CRN-757;COD755;4.29;201720;1;4.25;4;3.777777778;4;4;4.333333333;3.75
-null;CRN-757;COD755;null;201720;1;3;3;4;2.714285714;3;3.888888889;3.625
-null;CRN-757;COD755;null;201720;1;3.25;null;2.888888889;null;null;null;null
-null;CRN-757;COD755;null;201720;1;3.75;4;3.444444444;4;3.5;3.444444444;3.5
-null;CRN-757;COD755;null;201720;1;null;null;null;null;null;null;null
-null;CRN-757;COD755;null;201720;1;2;4;2.444444444;2.285714286;3;3;4
-null;CRN-757;COD755;null;201720;1;4.5;3;3.888888889;4.571428571;4;4.555555556;2.5
-Login estudiante13144;CRN-757;COD755;4.07;201720;1;2.5;1;3;2.571428571;3;1.555555556;2.375
-Login estudiante5958;CRN-757;COD755;4.45;201720;1;4;4;4;4;4;3.888888889;4.25
-Login estudiante13128;CRN-757;COD755;3.51;201720;1;3.5;4;3.222222222;3.428571429;5;4;3.75
-Login estudiante13110;CRN-757;COD755;3.42;201720;1;3.25;3;3.444444444;3.857142857;4;3.777777778;4.125
-null;CRN-757;COD755;null;201720;1;3;4;2;3.571428571;4;2.666666667;3
-null;CRN-757;COD755;null;201720;1;3.5;5;3.222222222;4;4;4.777777778;2.125
-null;CRN-757;COD755;null;201720;1;4.75;5;4;5;5;3.888888889;5
-null;CRN-757;COD755;null;201720;1;3.5;3;3.777777778;3.714285714;4;3.444444444;3
-Login estudiante13112;CRN-757;COD755;4.13;201720;1;3.25;5;2.222222222;4;4;4;2.75
-Login estudiante13125;CRN-757;COD755;3.34;201720;1;4;4;1.444444444;4.142857143;3.5;3.555555556;3.125
-Login estudiante13117;CRN-757;COD755;4.19;201720;1;4.5;5;3;4.142857143;4.5;4.666666667;4.5
-Login estudiante12627;CRN-757;COD755;4.95;201720;1;4;5;4;4.142857143;4;4;4
-Login estudiante13154;CRN-757;COD755;4.13;201720;1;3.25;4;3.222222222;3.142857143;2.5;2.555555556;3
-Login estudiante13158;CRN-757;COD755;3.8;201720;1;3.75;4;3.777777778;4;4;3.888888889;4
-Login estudiante13151;CRN-757;COD755;4.09;201720;1;3.5;4;3.222222222;3.714285714;4.5;4;4
-Login estudiante13146;CRN-757;COD755;4.31;201720;1;3.5;4;2.666666667;3.714285714;4;3.555555556;2.625
-Login estudiante13118;CRN-757;COD755;3.77;201720;1;2;4;1.888888889;3.428571429;3.5;3.888888889;4
-Login estudiante13142;CRN-757;COD755;4.32;201720;1;null;null;null;null;null;null;null
-Login estudiante13114;CRN-757;COD755;3.9;201720;1;2.25;3;2.333333333;2.857142857;3.5;4.555555556;2.375
-Login estudiante13108;CRN-757;COD755;3.79;201720;1;2.75;3;2.777777778;3.714285714;3.5;3;3.25
-Login estudiante13135;CRN-757;COD755;4.62;201720;1;4.5;4;2.777777778;4.142857143;4.5;3.888888889;3.5
-Login estudiante2958;CRN-757;COD755;3.84;201720;1;4.25;4;4.333333333;4.571428571;4.5;4.444444444;4.375
-null;CRN-757;COD755;null;201720;1;null;null;null;null;null;null;null
-Login estudiante13105;CRN-757;COD755;2.99;201720;1;3.75;4;3.111111111;4;4;3.444444444;1.375
-Login estudiante13134;CRN-757;COD755;3.45;201720;1;null;null;null;null;null;null;null
-Login estudiante13139;CRN-757;COD755;4.64;201720;1;4.75;5;3.777777778;5;4.5;4;4
-Login estudiante13153;CRN-757;COD755;4.69;201720;1;3.25;4;2.333333333;4;4;4.444444444;3.125
-Login estudiante2752;CRN-757;COD755;3.37;201720;1;3.25;4;3.444444444;4;4;4;3.25
-Login estudiante10737;CRN-757;COD755;4.08;201720;1;3.5;3;3;4;3;3.222222222;3.375
-Login estudiante13120;CRN-757;COD755;4.07;201720;1;null;null;null;null;null;null;null
-Login estudiante12651;CRN-757;COD755;4.21;201720;1;3;4;2.555555556;2.285714286;3;3.555555556;2.75
-Login estudiante6406;CRN-757;COD755;3.75;201720;1;4.25;3;2.333333333;3.285714286;3;2.333333333;2.125
-Login estudiante13150;CRN-757;COD755;4.31;201720;1;5;5;3.333333333;4;4.5;5;5
-Login estudiante13113;CRN-757;COD755;4.5;201720;1;3.25;4;3.111111111;2.571428571;1.5;2.444444444;1.375
-Login estudiante13129;CRN-757;COD755;4.11;201720;1;2.25;3;2.333333333;3.428571429;4;3.222222222;3.25
-Login estudiante13132;CRN-757;COD755;4.19;201720;1;4;5;4.777777778;4;4;4.666666667;4.875
-Login estudiante5612;CRN-757;COD755;4.74;201720;1;null;null;null;null;null;null;null
-null;CRN-765;COD763;null;201720;1;null;null;null;null;null;null;null
-null;CRN-765;COD763;null;201720;1;4.666666667;4;2.142857143;5;5;5;5
-null;CRN-765;COD763;null;201720;1;5;4;4.142857143;4.166666667;5;4.555555556;5
-null;CRN-765;COD763;null;201720;1;4.333333333;null;3.428571429;5;5;5;null
-null;CRN-765;COD763;null;201720;1;4;4;4.714285714;4;4;4;4
-null;CRN-765;COD763;null;201720;1;4.666666667;4;4.142857143;4;5;4.111111111;4.125
-null;CRN-765;COD763;null;201720;1;4.666666667;null;null;null;null;null;null
-null;CRN-765;COD763;null;201720;1;4.333333333;5;2.285714286;4;4;4.222222222;3.75
-null;CRN-765;COD763;null;201720;1;5;5;2.857142857;5;5;5;5
-null;CRN-765;COD763;null;201720;1;4;4;4;4;4;4;4
-null;CRN-765;COD763;null;201720;1;3.333333333;4;4;4.333333333;4;4.111111111;3.875
-null;CRN-765;COD763;null;201720;1;1;null;null;null;null;null;null
-null;CRN-765;COD763;null;201720;1;3.333333333;3;3;2;2;3.444444444;2.25
-null;CRN-765;COD763;null;201720;1;5;5;1.857142857;5;5;3;5
-null;CRN-765;COD763;null;201720;1;5;5;5;5;5;5;5
-null;CRN-765;COD763;null;201720;1;4.666666667;4;3.428571429;3.166666667;4;4;3.875
-null;CRN-765;COD763;null;201720;1;4;5;3.857142857;4.333333333;4;4.555555556;4.375
-null;CRN-765;COD763;null;201720;1;4.666666667;4;4;4.333333333;5;4.777777778;5
-null;CRN-765;COD763;null;201720;1;5;null;5;5;null;null;null
-null;CRN-765;COD763;null;201720;1;5;5;5;5;5;4.111111111;5
-null;CRN-765;COD763;null;201720;1;4.333333333;5;2;4;3;3.666666667;4
-null;CRN-765;COD763;null;201720;1;5;5;4.285714286;4.833333333;5;4;4.875
-null;CRN-765;COD763;null;201720;1;4.333333333;4;2;4.333333333;5;3.777777778;3.5
-null;CRN-765;COD763;null;201720;1;5;5;5;4.666666667;5;5;5
-null;CRN-765;COD763;null;201720;1;4.333333333;5;3;4.5;4;4.111111111;4.375
-null;CRN-765;COD763;null;201720;1;5;5;5;4.833333333;4;4.444444444;4.75
-null;CRN-765;COD763;null;201720;1;4.666666667;5;2.714285714;4.333333333;4;4.333333333;4.625
-null;CRN-765;COD763;null;201720;1;4.666666667;2;4.142857143;4.5;4;4.666666667;4.625
-null;CRN-765;COD763;null;201720;1;5;5;2.142857143;5;5;5;5
-null;CRN-765;COD763;null;201720;1;4.666666667;5;2.714285714;4.166666667;4;3.777777778;4.125
-null;CRN-765;COD763;null;201720;1;4;5;1.857142857;4.833333333;4;3.666666667;4.5
-null;CRN-765;COD763;null;201720;1;1;5;5;5;5;4.333333333;4.25
-null;CRN-765;COD763;null;201720;1;3.666666667;2;3.714285714;3.666666667;4;3.888888889;3.75
-null;CRN-765;COD763;null;201720;1;5;5;5;5;5;5;5
-null;CRN-765;COD763;null;201720;1;4;3;1.857142857;2.5;4;2;1.625
-null;CRN-765;COD763;null;201720;1;4.666666667;5;1.571428571;3.833333333;4;4.222222222;4.25
-null;CRN-765;COD763;null;201720;1;5;5;4.571428571;4.666666667;3;4.888888889;4.625
-null;CRN-765;COD763;null;201720;1;4;4;4.285714286;4;3;4;3.25
-null;CRN-765;COD763;null;201720;1;4.666666667;5;1.428571429;4.5;4;3.333333333;5
-null;CRN-765;COD763;null;201720;1;4.333333333;2;2;4.833333333;5;4.333333333;3.625
-null;CRN-765;COD763;null;201720;1;5;5;4.714285714;5;5;5;5
-null;CRN-765;COD763;null;201720;1;4.333333333;4;2.714285714;4.5;5;5;5
-null;CRN-765;COD763;null;201720;1;5;4;4.285714286;4.166666667;4;3.666666667;3.75
-null;CRN-765;COD763;null;201720;1;5;4;1.714285714;4.333333333;5;4.666666667;4.5
-null;CRN-765;COD763;null;201720;1;4;4;3.285714286;3.833333333;4;4.111111111;4
-null;CRN-765;COD763;null;201720;1;4.333333333;5;2;4.666666667;3;3.666666667;4.125
-null;CRN-765;COD763;null;201720;1;5;5;2.571428571;4.833333333;4;4.888888889;4.125
-null;CRN-765;COD763;null;201720;1;5;4;4.714285714;4;5;4.555555556;4.75
-null;CRN-765;COD763;null;201720;1;3;3;2.571428571;3.666666667;3;3.666666667;2.875
+loginEstudiante,crn,codigo_curso,nota,anio,periodo,HT,AC,O,C,A,I,E 
+ Login estudiante10790,CRN-1537,COD1534,4.4,201720,1,4.388888888888889,4.0,2.4444444444444446,4.0,4.0,4.0,3.875,
+Login estudiante10781,CRN-1537,COD1534,4.74,201720,1,3.888888888888889,4.0,4.0,4.0,4.0,4.0,4.0,
+Login estudiante13369,CRN-1537,COD1534,4.4,201720,1,4.888888888888889,5.0,4.444444444444445,5.0,5.0,4.222222222222222,5.0,
+Login estudiante10789,CRN-1537,COD1534,4.53,201720,1,3.1666666666666665,null,2.4444444444444446,null,null,null,null,
+Login estudiante10782,CRN-1537,COD1534,4.75,201720,1,4.222222222222222,4.0,4.222222222222222,4.0,4.0,4.222222222222222,4.0,
+Login estudiante10778,CRN-1537,COD1534,4.69,201720,1,4.722222222222222,5.0,2.0,5.0,5.0,4.444444444444445,4.875,
+Login estudiante10785,CRN-1537,COD1534,4.61,201720,1,2.8333333333333335,null,3.0,null,null,null,null,
+Login estudiante13370,CRN-1537,COD1534,4.2,201720,1,4.722222222222222,5.0,2.888888888888889,4.041666666666667,5.0,4.888888888888889,3.75,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.888888888888889,4.0,4.0,4.0,4.0,
+null,CRN-16672,null,null,null,null,4.0,5.0,4.0,4.0,4.0,4.0,4.0,
+null,CRN-16672,null,null,null,null,4.0,2.0,2.6666666666666665,3.5,4.0,3.888888888888889,2.75,
+null,CRN-16672,null,null,null,null,4.0,3.0,2.7777777777777777,4.166666666666667,5.0,3.888888888888889,3.5,
+null,CRN-16672,null,null,null,null,3.6666666666666665,1.0,2.0,1.3333333333333333,3.0,1.0,2.375,
+null,CRN-16672,null,null,null,null,3.6666666666666665,3.0,3.0,4.5,3.0,3.4444444444444446,2.75,
+null,CRN-16672,null,null,null,null,5.0,3.0,3.111111111111111,5.0,4.0,4.111111111111111,4.75,
+null,CRN-16672,null,null,null,null,4.0,3.0,2.7777777777777777,4.0,3.0,4.0,3.5,
+null,CRN-16672,null,null,null,null,4.0,3.0,2.888888888888889,2.5,2.0,2.6666666666666665,2.375,
+null,CRN-16672,null,null,null,null,3.0,3.0,2.5555555555555554,3.3333333333333335,4.0,3.2222222222222223,3.375,
+null,CRN-16672,null,null,null,null,4.666666666666667,3.0,2.3333333333333335,4.0,4.0,3.4444444444444446,3.5,
+null,CRN-16672,null,null,null,null,3.3333333333333335,4.0,2.5555555555555554,4.0,4.0,2.7777777777777777,3.625,
+null,CRN-16672,null,null,null,null,4.0,1.0,2.0,3.5,4.0,3.3333333333333335,1.5,
+null,CRN-16672,null,null,null,null,null,null,null,null,null,null,null,
+null,CRN-16672,null,null,null,null,null,null,null,null,null,null,null,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.0,4.0,2.0,4.333333333333333,2.875,
+null,CRN-16672,null,null,null,null,3.3333333333333335,3.0,3.111111111111111,3.6666666666666665,2.0,4.0,3.25,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.888888888888889,4.0,4.0,3.111111111111111,3.125,
+null,CRN-16672,null,null,null,null,5.0,3.0,2.5555555555555554,4.666666666666667,4.0,3.888888888888889,4.875,
+null,CRN-16672,null,null,null,null,null,null,null,null,null,null,null,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.6666666666666665,4.0,4.0,4.0,3.875,
+null,CRN-16672,null,null,null,null,4.0,4.0,3.888888888888889,3.1666666666666665,4.0,4.555555555555555,2.75,
+null,CRN-16672,null,null,null,null,4.0,3.0,4.0,5.0,5.0,4.0,2.75,
+null,CRN-16672,null,null,null,null,3.3333333333333335,3.0,3.888888888888889,4.166666666666667,3.0,4.0,2.75,
+null,CRN-16672,null,null,null,null,3.0,1.0,2.2222222222222223,2.6666666666666665,4.0,3.0,1.875,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.888888888888889,3.8333333333333335,4.0,3.6666666666666665,3.375,
+null,CRN-16672,null,null,null,null,4.0,4.0,3.888888888888889,4.0,4.0,4.0,4.0,
+null,CRN-16672,null,null,null,null,3.0,null,4.666666666666667,null,null,null,null,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.7777777777777777,3.5,4.0,3.2222222222222223,3.375,
+null,CRN-16672,null,null,null,null,4.0,4.0,3.5555555555555554,4.166666666666667,4.0,4.555555555555555,4.375,
+null,CRN-16672,null,null,null,null,5.0,5.0,4.777777777777778,5.0,5.0,3.888888888888889,4.25,
+null,CRN-16672,null,null,null,null,4.333333333333333,4.0,3.4444444444444446,3.5,4.0,3.2222222222222223,3.5,
+null,CRN-16672,null,null,null,null,4.333333333333333,4.0,3.0,3.8333333333333335,3.0,3.4444444444444446,3.25,
+null,CRN-16672,null,null,null,null,3.6666666666666665,2.0,2.3333333333333335,3.8333333333333335,2.0,2.5555555555555554,1.625,
+null,CRN-16672,null,null,null,null,4.666666666666667,4.0,4.222222222222222,5.0,5.0,4.777777777777778,4.5,
+null,CRN-16672,null,null,null,null,4.333333333333333,4.0,3.2222222222222223,4.0,4.0,3.4444444444444446,3.875,
+null,CRN-16672,null,null,null,null,5.0,5.0,3.3333333333333335,5.0,5.0,4.444444444444445,5.0,
+null,CRN-16672,null,null,null,null,5.0,2.0,2.3333333333333335,3.6666666666666665,4.0,4.222222222222222,3.75,
+null,CRN-16672,null,null,null,null,4.0,5.0,4.777777777777778,4.0,4.0,4.0,4.875,
+null,CRN-16672,null,null,null,null,4.0,1.0,2.7777777777777777,2.1666666666666665,1.0,2.0,1.0,
+null,CRN-16672,null,null,null,null,4.0,3.0,3.888888888888889,4.0,2.0,3.6666666666666665,1.5,
+null,CRN-16672,null,null,null,null,4.333333333333333,5.0,4.333333333333333,4.0,5.0,4.222222222222222,4.75,
+null,CRN-16672,null,null,null,null,4.0,4.0,3.6666666666666665,3.1666666666666665,4.0,3.4444444444444446,3.25,
+null,CRN-16672,null,null,null,null,4.666666666666667,3.0,2.2222222222222223,3.8333333333333335,4.0,4.0,3.75,
+null,CRN-16672,null,null,null,null,3.6666666666666665,3.0,3.0,3.3333333333333335,4.0,3.7777777777777777,3.375,
+null,CRN-16672,null,null,null,null,null,null,null,null,null,null,null,
+null,CRN-16672,null,null,null,null,4.0,4.0,3.7777777777777777,4.0,4.0,4.0,3.25,
+null,CRN-16672,null,null,null,null,4.0,null,null,null,null,null,null,
+null,CRN-16672,null,null,null,null,4.333333333333333,4.0,4.0,4.333333333333333,4.0,4.222222222222222,3.75,
+null,CRN-16672,null,null,null,null,5.0,5.0,3.3333333333333335,4.5,5.0,4.333333333333333,3.25,
+Login estudiante9503,CRN-16673,null,null,null,null,3.6666666666666665,4.0,1.4444444444444444,3.8333333333333335,5.0,3.4444444444444446,4.0,
+Login estudiante16069,CRN-16673,null,null,null,null,3.6666666666666665,3.0,1.8888888888888888,3.3333333333333335,4.0,3.111111111111111,4.0,
+Login estudiante9974,CRN-16673,null,null,null,null,4.333333333333333,4.0,4.111111111111111,4.0,5.0,3.5555555555555554,4.625,
+Login estudiante3806,CRN-16673,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante9711,CRN-16673,null,null,null,null,4.0,5.0,2.6666666666666665,3.3333333333333335,4.0,3.888888888888889,4.625,
+Login estudiante16074,CRN-16673,null,null,null,null,3.0,null,null,null,null,null,null,
+Login estudiante15439,CRN-16673,null,null,null,null,4.0,null,2.0,4.333333333333333,null,null,null,
+Login estudiante9463,CRN-16673,null,null,null,null,3.6666666666666665,3.0,2.111111111111111,3.5,2.0,3.111111111111111,3.875,
+Login estudiante16078,CRN-16673,null,null,null,null,4.0,3.0,3.2222222222222223,4.0,4.0,2.888888888888889,3.5,
+Login estudiante16080,CRN-16673,null,null,null,null,5.0,4.0,4.444444444444445,5.0,5.0,4.666666666666667,5.0,
+Login estudiante5082,CRN-16673,null,null,null,null,3.0,5.0,3.4444444444444446,4.5,5.0,3.6666666666666665,5.0,
+Login estudiante9459,CRN-16673,null,null,null,null,4.0,4.0,1.8888888888888888,4.0,3.0,3.3333333333333335,4.0,
+Login estudiante10017,CRN-16673,null,null,null,null,5.0,4.0,2.2222222222222223,5.0,5.0,3.6666666666666665,5.0,
+Login estudiante9088,CRN-16673,null,null,null,null,5.0,3.0,2.0,4.833333333333333,5.0,2.888888888888889,3.625,
+Login estudiante16128,CRN-16674,null,null,null,null,4.0,5.0,5.0,4.833333333333333,4.0,4.777777777777778,4.5,
+Login estudiante4938,CRN-16674,null,null,null,null,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante11306,CRN-16674,null,null,null,null,4.0,4.0,4.111111111111111,3.6666666666666665,4.0,4.333333333333333,4.75,
+Login estudiante11300,CRN-16674,null,null,null,null,4.333333333333333,4.0,4.444444444444445,4.5,5.0,1.4444444444444444,4.875,
+Login estudiante11292,CRN-16674,null,null,null,null,4.333333333333333,4.0,4.222222222222222,4.666666666666667,5.0,4.111111111111111,4.875,
+Login estudiante11297,CRN-16674,null,null,null,null,3.6666666666666665,4.0,2.2222222222222223,3.8333333333333335,5.0,5.0,2.75,
+Login estudiante16135,CRN-16674,null,null,null,null,4.333333333333333,4.0,4.444444444444445,4.5,4.0,4.444444444444445,4.875,
+Login estudiante5589,CRN-16674,null,null,null,null,4.0,null,null,null,null,null,null,
+Login estudiante16138,CRN-16674,null,null,null,null,3.3333333333333335,4.0,3.4444444444444446,3.8333333333333335,3.0,3.4444444444444446,5.0,
+Login estudiante4207,CRN-16674,null,null,null,null,0.0,4.0,4.111111111111111,4.0,4.0,4.0,4.0,
+Login estudiante10813,CRN-16674,null,null,null,null,5.0,5.0,5.0,5.0,5.0,4.777777777777778,5.0,
+Login estudiante16142,CRN-16674,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16144,CRN-16674,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16146,CRN-16674,null,null,null,null,4.666666666666667,4.0,5.0,4.5,4.0,3.888888888888889,3.75,
+Login estudiante7117,CRN-16674,null,null,null,null,5.0,5.0,4.333333333333333,4.166666666666667,4.0,4.555555555555555,5.0,
+Login estudiante5588,CRN-16674,null,null,null,null,4.0,3.0,3.111111111111111,3.3333333333333335,4.0,3.2222222222222223,3.375,
+Login estudiante11240,CRN-16675,null,null,null,null,4.333333333333333,4.0,3.111111111111111,4.666666666666667,4.0,2.888888888888889,3.875,
+Login estudiante3316,CRN-16675,null,null,null,null,4.666666666666667,5.0,4.444444444444445,4.0,4.0,2.888888888888889,3.875,
+Login estudiante16222,CRN-16675,null,null,null,null,3.6666666666666665,4.0,2.6666666666666665,3.5,4.5,4.0,3.125,
+Login estudiante10672,CRN-16675,null,null,null,null,4.0,4.0,3.2222222222222223,3.6666666666666665,4.0,3.111111111111111,3.0,
+Login estudiante10738,CRN-16675,null,null,null,null,3.6666666666666665,2.0,3.111111111111111,2.3333333333333335,3.5,4.333333333333333,4.75,
+Login estudiante6617,CRN-16675,null,null,null,null,4.0,3.0,3.7777777777777777,3.6666666666666665,4.0,2.7777777777777777,3.25,
+Login estudiante8671,CRN-16675,null,null,null,null,3.0,1.0,3.3333333333333335,2.8333333333333335,3.5,2.0,2.625,
+Login estudiante16228,CRN-16675,null,null,null,null,3.3333333333333335,3.0,3.111111111111111,3.0,3.0,3.0,3.0,
+Login estudiante12972,CRN-16675,null,null,null,null,5.0,3.0,2.0,3.8333333333333335,4.0,3.5555555555555554,4.25,
+Login estudiante16231,CRN-16675,null,null,null,null,5.0,5.0,4.444444444444445,5.0,4.0,4.777777777777778,3.875,
+Login estudiante2727,CRN-16675,null,null,null,null,3.6666666666666665,3.0,3.5555555555555554,4.0,3.5,2.7777777777777777,3.75,
+Login estudiante8272,CRN-16675,null,null,null,null,4.666666666666667,5.0,3.5555555555555554,3.8333333333333335,4.0,4.555555555555555,4.5,
+Login estudiante6561,CRN-16675,null,null,null,null,3.3333333333333335,5.0,2.4444444444444446,3.6666666666666665,4.0,4.0,3.25,
+Login estudiante6603,CRN-16675,null,null,null,null,4.0,5.0,4.444444444444445,3.6666666666666665,4.5,2.4444444444444446,4.125,
+Login estudiante16237,CRN-16675,null,null,null,null,3.6666666666666665,3.0,2.6666666666666665,3.8333333333333335,4.0,3.888888888888889,3.875,
+Login estudiante7232,CRN-16675,null,null,null,null,5.0,4.0,2.6666666666666665,4.166666666666667,3.5,3.6666666666666665,4.5,
+Login estudiante7799,CRN-16675,null,null,null,null,3.6666666666666665,4.0,2.888888888888889,4.166666666666667,4.0,3.2222222222222223,4.25,
+Login estudiante16241,CRN-16675,null,null,null,null,4.0,4.0,1.8888888888888888,4.0,4.5,4.555555555555555,3.625,
+Login estudiante16243,CRN-16675,null,null,null,null,4.666666666666667,4.0,3.111111111111111,4.0,4.0,3.7777777777777777,4.0,
+Login estudiante5180,CRN-16675,null,null,null,null,4.333333333333333,2.0,3.0,2.8333333333333335,2.5,1.8888888888888888,3.5,
+Login estudiante10704,CRN-16675,null,null,null,null,5.0,4.0,2.4444444444444446,4.166666666666667,4.0,4.222222222222222,4.125,
+Login estudiante10746,CRN-16675,null,null,null,null,3.0,5.0,3.7777777777777777,3.0,3.0,2.6666666666666665,3.125,
+Login estudiante13681,CRN-16675,null,null,null,null,3.0,3.0,2.888888888888889,2.8333333333333335,2.5,2.888888888888889,2.875,
+Login estudiante16249,CRN-16675,null,null,null,null,1.6666666666666667,null,1.5555555555555556,3.5,null,null,null,
+Login estudiante5961,CRN-16675,null,null,null,null,4.0,3.0,2.6666666666666665,2.6666666666666665,3.5,2.5555555555555554,3.125,
+Login estudiante8284,CRN-16675,null,null,null,null,4.666666666666667,2.0,2.5555555555555554,3.1666666666666665,4.0,3.111111111111111,2.875,
+Login estudiante13645,CRN-16675,null,null,null,null,4.0,2.0,3.5555555555555554,3.0,3.0,3.3333333333333335,3.0,
+Login estudiante6626,CRN-16675,null,null,null,null,4.666666666666667,5.0,4.555555555555555,4.0,3.0,3.111111111111111,2.875,
+Login estudiante7803,CRN-16675,null,null,null,null,4.333333333333333,5.0,3.888888888888889,4.0,4.5,3.7777777777777777,3.75,
+Login estudiante3887,CRN-16675,null,null,null,null,4.0,4.0,4.222222222222222,3.1666666666666665,4.0,3.6666666666666665,4.0,
+Login estudiante10710,CRN-16675,null,null,null,null,5.0,4.0,4.666666666666667,4.666666666666667,4.5,4.777777777777778,4.625,
+Login estudiante6897,CRN-16675,null,null,null,null,5.0,5.0,5.0,5.0,5.0,4.555555555555555,5.0,
+Login estudiante10991,CRN-16675,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante4601,CRN-16675,null,null,null,null,3.6666666666666665,4.0,3.6666666666666665,3.6666666666666665,3.5,3.0,3.25,
+Login estudiante6037,CRN-16675,null,null,null,null,3.6666666666666665,2.0,3.0,2.6666666666666665,4.0,3.111111111111111,2.375,
+Login estudiante7761,CRN-16675,null,null,null,null,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante10749,CRN-16675,null,null,null,null,4.0,2.0,1.4444444444444444,2.6666666666666665,4.0,4.0,4.0,
+Login estudiante10667,CRN-16675,null,null,null,null,4.666666666666667,1.0,3.6666666666666665,3.0,4.0,2.888888888888889,2.0,
+Login estudiante13301,CRN-16675,null,null,null,null,2.3333333333333335,null,3.2222222222222223,1.8333333333333333,3.5,null,null,
+Login estudiante16265,CRN-16675,null,null,null,null,5.0,4.0,5.0,5.0,4.0,5.0,5.0,
+null,CRN-16676,null,null,null,null,4.0,5.0,2.2222222222222223,5.0,5.0,5.0,4.625,
+null,CRN-16676,null,null,null,null,4.0,5.0,1.2222222222222223,3.1666666666666665,4.0,2.5555555555555554,3.25,
+null,CRN-16676,null,null,null,null,3.3333333333333335,4.0,3.0,2.8333333333333335,3.0,3.3333333333333335,3.125,
+null,CRN-16676,null,null,null,null,4.0,5.0,3.7777777777777777,4.0,4.0,4.0,4.0,
+null,CRN-16676,null,null,null,null,4.5,5.0,3.4444444444444446,4.5,3.0,3.5555555555555554,5.0,
+null,CRN-16676,null,null,null,null,5.0,5.0,4.888888888888889,5.0,5.0,5.0,5.0,
+null,CRN-16676,null,null,null,null,4.5,5.0,4.111111111111111,5.0,5.0,4.0,5.0,
+null,CRN-16676,null,null,null,null,5.0,null,null,null,null,null,null,
+null,CRN-16676,null,null,null,null,3.6666666666666665,4.0,1.5555555555555556,3.6666666666666665,3.0,3.2222222222222223,3.75,
+null,CRN-16676,null,null,null,null,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+null,CRN-16676,null,null,null,null,4.0,4.0,3.5555555555555554,4.0,4.0,4.0,4.0,
+null,CRN-16676,null,null,null,null,5.0,4.0,3.111111111111111,3.0,2.0,4.444444444444445,4.875,
+null,CRN-16676,null,null,null,null,4.5,5.0,4.333333333333333,3.3333333333333335,3.0,3.0,3.0,
+null,CRN-16676,null,null,null,null,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+null,CRN-16676,null,null,null,null,5.0,5.0,2.2222222222222223,5.0,5.0,4.666666666666667,5.0,
+null,CRN-16676,null,null,null,null,4.5,5.0,4.111111111111111,5.0,5.0,5.0,5.0,
+null,CRN-16676,null,null,null,null,4.5,null,1.8888888888888888,null,null,null,null,
+null,CRN-16676,null,null,null,null,4.333333333333333,5.0,4.666666666666667,4.666666666666667,3.0,4.888888888888889,4.75,
+null,CRN-16676,null,null,null,null,5.0,5.0,1.5555555555555556,2.1666666666666665,3.0,3.7777777777777777,3.125,
+null,CRN-16676,null,null,null,null,null,null,null,null,null,null,null,
+null,CRN-16676,null,null,null,null,3.5,5.0,3.2222222222222223,4.0,4.0,4.111111111111111,3.875,
+Login estudiante16582,CRN-16687,null,null,null,null,4.666666666666667,4.0,3.7777777777777777,3.3333333333333335,2.0,2.7777777777777777,3.0,
+Login estudiante12333,CRN-16687,null,null,null,null,3.6666666666666665,4.0,2.7777777777777777,3.5,2.0,3.3333333333333335,3.25,
+Login estudiante12354,CRN-16687,null,null,null,null,2.0,4.0,3.2222222222222223,2.8333333333333335,3.0,3.6666666666666665,2.625,
+Login estudiante16583,CRN-16687,null,null,null,null,4.666666666666667,5.0,2.111111111111111,5.0,5.0,4.888888888888889,4.75,
+Login estudiante13070,CRN-16687,null,null,null,null,3.6666666666666665,4.0,3.5555555555555554,3.6666666666666665,4.0,4.111111111111111,3.125,
+Login estudiante16584,CRN-16687,null,null,null,null,4.666666666666667,4.0,3.2222222222222223,3.5,4.0,4.111111111111111,3.5,
+Login estudiante16585,CRN-16687,null,null,null,null,4.0,5.0,4.555555555555555,4.0,5.0,4.333333333333333,4.0,
+Login estudiante16586,CRN-16687,null,null,null,null,4.0,5.0,3.111111111111111,2.6666666666666665,4.0,4.111111111111111,1.375,
+Login estudiante16587,CRN-16687,null,null,null,null,3.0,null,1.3333333333333333,1.5,null,null,null,
+Login estudiante16588,CRN-16687,null,null,null,null,4.0,4.0,3.2222222222222223,4.166666666666667,4.0,4.666666666666667,3.625,
+Login estudiante8562,CRN-16687,null,null,null,null,5.0,4.0,4.222222222222222,3.8333333333333335,4.0,4.444444444444445,3.125,
+Login estudiante16589,CRN-16687,null,null,null,null,3.3333333333333335,null,null,null,null,null,null,
+Login estudiante12347,CRN-16687,null,null,null,null,5.0,4.0,4.0,3.3333333333333335,4.0,3.6666666666666665,1.875,
+Login estudiante2706,CRN-16687,null,null,null,null,4.333333333333333,1.0,1.4444444444444444,2.1666666666666665,1.0,4.0,1.0,
+Login estudiante12381,CRN-16687,null,null,null,null,5.0,5.0,4.666666666666667,3.6666666666666665,4.0,5.0,3.375,
+Login estudiante12378,CRN-16687,null,null,null,null,3.6666666666666665,3.0,1.5555555555555556,3.0,2.0,3.2222222222222223,1.0,
+Login estudiante16590,CRN-16687,null,null,null,null,5.0,null,3.0,null,null,null,null,
+Login estudiante16591,CRN-16687,null,null,null,null,4.0,null,null,null,null,null,null,
+Login estudiante7169,CRN-16687,null,null,null,null,1.0,4.0,1.0,1.0,1.0,4.333333333333333,3.75,
+Login estudiante16592,CRN-16687,null,null,null,null,3.6666666666666665,1.0,3.2222222222222223,3.6666666666666665,2.0,3.7777777777777777,2.0,
+Login estudiante15890,CRN-16687,null,null,null,null,5.0,5.0,3.5555555555555554,4.666666666666667,5.0,4.666666666666667,4.5,
+Login estudiante15905,CRN-16687,null,null,null,null,3.6666666666666665,3.0,2.6666666666666665,3.6666666666666665,4.0,3.6666666666666665,3.125,
+Login estudiante12236,CRN-16687,null,null,null,null,3.3333333333333335,5.0,3.5555555555555554,4.0,5.0,3.5555555555555554,3.625,
+Login estudiante12319,CRN-16687,null,null,null,null,5.0,null,null,null,null,null,null,
+Login estudiante12374,CRN-16687,null,null,null,null,4.0,2.0,4.0,4.0,2.0,3.3333333333333335,1.5,
+Login estudiante16593,CRN-16687,null,null,null,null,3.6666666666666665,5.0,3.888888888888889,3.1666666666666665,3.0,4.0,2.375,
+Login estudiante16594,CRN-16688,null,null,null,null,2.0,2.0,2.7777777777777777,1.1666666666666667,4.0,2.4444444444444446,1.75,
+Login estudiante7376,CRN-16688,null,null,null,null,4.0,4.0,2.6666666666666665,1.8333333333333333,1.0,2.2222222222222223,2.375,
+Login estudiante16595,CRN-16688,null,null,null,null,3.0,null,null,null,null,null,null,
+Login estudiante12289,CRN-16688,null,null,null,null,3.0,2.0,2.111111111111111,2.3333333333333335,4.0,2.6666666666666665,2.375,
+Login estudiante16596,CRN-16688,null,null,null,null,4.333333333333333,5.0,4.777777777777778,4.833333333333333,5.0,5.0,4.875,
+Login estudiante16597,CRN-16688,null,null,null,null,3.6666666666666665,4.0,1.6666666666666667,4.166666666666667,4.0,3.6666666666666665,3.75,
+Login estudiante7401,CRN-16688,null,null,null,null,3.3333333333333335,5.0,4.333333333333333,4.0,4.0,4.555555555555555,4.375,
+Login estudiante16598,CRN-16688,null,null,null,null,4.0,null,4.333333333333333,3.8333333333333335,4.0,null,null,
+Login estudiante16599,CRN-16688,null,null,null,null,1.0,1.0,1.0,1.0,1.0,1.0,1.0,
+Login estudiante16600,CRN-16688,null,null,null,null,3.0,null,2.4444444444444446,3.0,null,null,null,
+Login estudiante16601,CRN-16688,null,null,null,null,2.0,4.0,2.888888888888889,2.1666666666666665,4.0,3.3333333333333335,1.75,
+Login estudiante4760,CRN-16688,null,null,null,null,2.6666666666666665,2.0,3.3333333333333335,3.1666666666666665,3.0,3.0,3.0,
+Login estudiante16602,CRN-16688,null,null,null,null,4.0,5.0,3.7777777777777777,4.333333333333333,4.0,4.888888888888889,4.125,
+Login estudiante16603,CRN-16688,null,null,null,null,3.0,3.0,4.333333333333333,2.3333333333333335,2.0,2.3333333333333335,3.875,
+Login estudiante7386,CRN-16688,null,null,null,null,3.6666666666666665,null,null,null,null,null,null,
+Login estudiante16604,CRN-16688,null,null,null,null,2.0,5.0,2.3333333333333335,1.8333333333333333,2.0,4.444444444444445,2.75,
+Login estudiante16605,CRN-16688,null,null,null,null,4.333333333333333,5.0,4.555555555555555,4.166666666666667,4.0,3.6666666666666665,4.75,
+Login estudiante16606,CRN-16688,null,null,null,null,3.0,4.0,2.5555555555555554,2.6666666666666665,2.0,2.4444444444444446,3.625,
+Login estudiante16607,CRN-16688,null,null,null,null,4.333333333333333,null,4.888888888888889,null,null,null,null,
+Login estudiante6380,CRN-16688,null,null,null,null,3.3333333333333335,5.0,3.2222222222222223,3.5,4.0,4.0,3.5,
+Login estudiante16608,CRN-16688,null,null,null,null,2.0,3.0,2.6666666666666665,2.6666666666666665,4.0,2.6666666666666665,3.875,
+Login estudiante16609,CRN-16688,null,null,null,null,5.0,5.0,4.555555555555555,4.666666666666667,4.0,3.888888888888889,4.625,
+Login estudiante16610,CRN-16688,null,null,null,null,3.0,4.0,3.0,3.5,2.0,3.5555555555555554,4.125,
+Login estudiante3555,CRN-16688,null,null,null,null,4.666666666666667,5.0,4.555555555555555,4.833333333333333,5.0,2.4444444444444446,5.0,
+Login estudiante16594,CRN-16689,null,null,null,null,2.0,2.0,2.7777777777777777,1.1666666666666667,4.0,2.4444444444444446,1.75,
+Login estudiante7376,CRN-16689,null,null,null,null,4.0,4.0,2.6666666666666665,1.8333333333333333,1.0,2.2222222222222223,2.375,
+Login estudiante16595,CRN-16689,null,null,null,null,3.0,null,null,null,null,null,null,
+Login estudiante12289,CRN-16689,null,null,null,null,3.0,2.0,2.111111111111111,2.3333333333333335,4.0,2.6666666666666665,2.375,
+Login estudiante16596,CRN-16689,null,null,null,null,4.333333333333333,5.0,4.777777777777778,4.833333333333333,5.0,5.0,4.875,
+Login estudiante16597,CRN-16689,null,null,null,null,3.6666666666666665,4.0,1.6666666666666667,4.166666666666667,4.0,3.6666666666666665,3.75,
+Login estudiante7401,CRN-16689,null,null,null,null,3.3333333333333335,5.0,4.333333333333333,4.0,4.0,4.555555555555555,4.375,
+Login estudiante16598,CRN-16689,null,null,null,null,4.0,null,4.333333333333333,3.8333333333333335,4.0,null,null,
+Login estudiante16599,CRN-16689,null,null,null,null,1.0,1.0,1.0,1.0,1.0,1.0,1.0,
+Login estudiante16600,CRN-16689,null,null,null,null,3.0,null,2.4444444444444446,3.0,null,null,null,
+Login estudiante16601,CRN-16689,null,null,null,null,2.0,4.0,2.888888888888889,2.1666666666666665,4.0,3.3333333333333335,1.75,
+Login estudiante4760,CRN-16689,null,null,null,null,2.6666666666666665,2.0,3.3333333333333335,3.1666666666666665,3.0,3.0,3.0,
+Login estudiante16602,CRN-16689,null,null,null,null,4.0,5.0,3.7777777777777777,4.333333333333333,4.0,4.888888888888889,4.125,
+Login estudiante16603,CRN-16689,null,null,null,null,3.0,3.0,4.333333333333333,2.3333333333333335,2.0,2.3333333333333335,3.875,
+Login estudiante7386,CRN-16689,null,null,null,null,3.6666666666666665,null,null,null,null,null,null,
+Login estudiante16604,CRN-16689,null,null,null,null,2.0,5.0,2.3333333333333335,1.8333333333333333,2.0,4.444444444444445,2.75,
+Login estudiante16605,CRN-16689,null,null,null,null,4.333333333333333,5.0,4.555555555555555,4.166666666666667,4.0,3.6666666666666665,4.75,
+Login estudiante16606,CRN-16689,null,null,null,null,3.0,4.0,2.5555555555555554,2.6666666666666665,2.0,2.4444444444444446,3.625,
+Login estudiante16607,CRN-16689,null,null,null,null,4.333333333333333,null,4.888888888888889,null,null,null,null,
+Login estudiante6380,CRN-16689,null,null,null,null,3.3333333333333335,5.0,3.2222222222222223,3.5,4.0,4.0,3.5,
+Login estudiante16608,CRN-16689,null,null,null,null,2.0,3.0,2.6666666666666665,2.6666666666666665,4.0,2.6666666666666665,3.875,
+Login estudiante16609,CRN-16689,null,null,null,null,5.0,5.0,4.555555555555555,4.666666666666667,4.0,3.888888888888889,4.625,
+Login estudiante16610,CRN-16689,null,null,null,null,3.0,4.0,3.0,3.5,2.0,3.5555555555555554,4.125,
+Login estudiante3555,CRN-16689,null,null,null,null,4.666666666666667,5.0,4.555555555555555,4.833333333333333,5.0,2.4444444444444446,5.0,
+Login estudiante16636,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante11604,CRN-16690,null,null,null,null,3.3333333333333335,null,1.25,2.1666666666666665,3.0,2.3333333333333335,2.375,
+Login estudiante14980,CRN-16690,null,null,null,null,5.0,null,2.25,4.833333333333333,5.0,3.111111111111111,5.0,
+Login estudiante13091,CRN-16690,null,null,null,null,5.0,null,4.625,5.0,4.0,3.3333333333333335,4.875,
+Login estudiante16637,CRN-16690,null,null,null,null,2.6666666666666665,null,1.625,2.0,3.0,3.111111111111111,3.625,
+Login estudiante7612,CRN-16690,null,null,null,null,4.666666666666667,null,5.0,3.0,4.0,2.3333333333333335,4.25,
+Login estudiante4571,CRN-16690,null,null,null,null,4.333333333333333,null,null,null,null,null,null,
+Login estudiante16638,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16639,CRN-16690,null,null,null,null,4.666666666666667,null,3.625,4.166666666666667,3.0,3.5555555555555554,4.125,
+Login estudiante6518,CRN-16690,null,null,null,null,3.0,null,null,null,null,null,null,
+Login estudiante9481,CRN-16690,null,null,null,null,3.0,null,1.25,3.0,3.0,3.7777777777777777,2.25,
+Login estudiante8080,CRN-16690,null,null,null,null,4.666666666666667,null,4.375,4.0,5.0,4.111111111111111,5.0,
+Login estudiante7887,CRN-16690,null,null,null,null,4.666666666666667,null,5.0,5.0,3.0,4.444444444444445,5.0,
+Login estudiante13101,CRN-16690,null,null,null,null,5.0,null,null,null,null,null,null,
+Login estudiante6652,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16640,CRN-16690,null,null,null,null,5.0,null,3.125,3.6666666666666665,3.0,3.6666666666666665,3.875,
+Login estudiante13093,CRN-16690,null,null,null,null,5.0,null,4.5,4.166666666666667,5.0,3.5555555555555554,4.0,
+Login estudiante16641,CRN-16690,null,null,null,null,4.0,null,3.25,3.8333333333333335,4.0,4.222222222222222,4.0,
+Login estudiante13095,CRN-16690,null,null,null,null,4.666666666666667,null,4.25,4.0,4.0,4.0,3.5,
+Login estudiante7885,CRN-16690,null,null,null,null,2.6666666666666665,null,3.125,2.8333333333333335,5.0,4.111111111111111,2.875,
+Login estudiante6713,CRN-16690,null,null,null,null,4.0,null,2.75,3.0,4.0,4.0,3.5,
+Login estudiante16642,CRN-16690,null,null,null,null,5.0,null,3.75,4.5,5.0,4.444444444444445,5.0,
+Login estudiante5275,CRN-16690,null,null,null,null,5.0,null,3.5,4.833333333333333,4.0,4.666666666666667,5.0,
+Login estudiante13100,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16643,CRN-16690,null,null,null,null,4.0,null,1.75,4.666666666666667,4.0,3.111111111111111,2.875,
+Login estudiante15469,CRN-16690,null,null,null,null,3.0,null,1.375,2.6666666666666665,3.0,2.888888888888889,3.125,
+Login estudiante14831,CRN-16690,null,null,null,null,5.0,null,4.75,5.0,5.0,5.0,5.0,
+Login estudiante16644,CRN-16690,null,null,null,null,5.0,null,4.625,4.333333333333333,4.0,3.5555555555555554,3.875,
+Login estudiante16645,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante13449,CRN-16690,null,null,null,null,5.0,null,4.75,4.0,5.0,5.0,5.0,
+Login estudiante16646,CRN-16690,null,null,null,null,5.0,null,2.5,3.6666666666666665,2.0,2.888888888888889,3.75,
+Login estudiante16647,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante9956,CRN-16690,null,null,null,null,5.0,null,3.25,null,null,null,null,
+Login estudiante3303,CRN-16690,null,null,null,null,3.6666666666666665,null,3.75,4.5,4.0,3.6666666666666665,3.5,
+Login estudiante16648,CRN-16690,null,null,null,null,4.333333333333333,null,4.125,null,null,null,null,
+Login estudiante16649,CRN-16690,null,null,null,null,4.666666666666667,null,null,null,null,null,null,
+Login estudiante16650,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16651,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16652,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16653,CRN-16690,null,null,null,null,4.333333333333333,null,2.25,2.5,4.0,3.2222222222222223,3.25,
+Login estudiante16654,CRN-16690,null,null,null,null,3.0,null,3.375,2.1666666666666665,2.0,3.3333333333333335,3.0,
+Login estudiante12274,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16655,CRN-16690,null,null,null,null,4.666666666666667,null,3.0,4.166666666666667,4.0,4.111111111111111,2.5,
+Login estudiante13078,CRN-16690,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante16656,CRN-16690,null,null,null,null,4.666666666666667,null,4.0,3.6666666666666665,null,null,null,
+Login estudiante10089,CRN-16690,null,null,null,null,5.0,null,5.0,4.666666666666667,5.0,4.777777777777778,5.0,
+Login estudiante14869,CRN-16690,null,null,null,null,5.0,null,4.875,4.5,5.0,4.888888888888889,5.0,
+Login estudiante9368,CRN-16690,null,null,null,null,4.666666666666667,null,3.625,3.8333333333333335,5.0,4.444444444444445,4.625,
+Login estudiante16657,CRN-16690,null,null,null,null,4.0,null,2.625,4.0,3.0,4.666666666666667,2.875,
+Login estudiante16658,CRN-16690,null,null,null,null,4.666666666666667,null,3.375,3.8333333333333335,3.0,3.6666666666666665,2.875,
+Login estudiante3811,CRN-16690,null,null,null,null,5.0,null,2.75,4.0,5.0,3.7777777777777777,3.25,
+null,CRN-16691,null,null,null,null,4.333333333333333,5.0,4.555555555555555,4.666666666666667,5.0,3.111111111111111,5.0,
+null,CRN-16691,null,null,null,null,5.0,5.0,3.111111111111111,4.666666666666667,4.0,3.2222222222222223,3.875,
+null,CRN-16691,null,null,null,null,4.333333333333333,5.0,4.444444444444445,4.0,5.0,4.0,4.625,
+null,CRN-16691,null,null,null,null,4.0,4.0,3.7777777777777777,3.6666666666666665,4.0,3.111111111111111,3.75,
+null,CRN-16691,null,null,null,null,4.0,4.0,4.333333333333333,4.0,4.0,5.0,4.25,
+null,CRN-16691,null,null,null,null,4.666666666666667,5.0,5.0,4.666666666666667,5.0,3.0,5.0,
+null,CRN-16691,null,null,null,null,3.6666666666666665,4.0,4.0,3.1666666666666665,4.0,2.7777777777777777,3.75,
+Login estudiante16659,CRN-16691,null,null,null,null,3.0,null,3.6666666666666665,3.1666666666666665,null,null,null,
+Login estudiante16660,CRN-16691,null,null,null,null,4.0,5.0,4.222222222222222,4.0,5.0,3.2222222222222223,3.625,
+Login estudiante10471,CRN-16691,null,null,null,null,4.0,4.0,4.888888888888889,4.333333333333333,4.0,3.6666666666666665,4.25,
+Login estudiante16661,CRN-16691,null,null,null,null,4.666666666666667,5.0,3.888888888888889,4.833333333333333,4.0,3.888888888888889,4.875,
+Login estudiante5639,CRN-16691,null,null,null,null,4.0,5.0,3.5555555555555554,4.166666666666667,5.0,4.222222222222222,4.25,
+Login estudiante11235,CRN-16712,null,null,null,null,5.0,null,4.0,4.4,5.0,5.0,3.625,
+Login estudiante5484,CRN-16712,null,null,null,null,2.6666666666666665,null,2.8,3.6,null,null,null,
+Login estudiante12261,CRN-16712,null,null,null,null,4.333333333333333,null,null,null,null,null,null,
+Login estudiante4912,CRN-16712,null,null,null,null,4.666666666666667,null,2.0,3.6,4.0,2.6,3.25,
+Login estudiante12257,CRN-16712,null,null,null,null,4.333333333333333,null,3.6,2.6,3.0,3.0,3.0,
+Login estudiante4935,CRN-16712,null,null,null,null,4.0,null,3.2,4.0,3.0,3.2,3.75,
+Login estudiante6110,CRN-16712,null,null,null,null,4.0,null,null,null,null,null,null,
+Login estudiante12286,CRN-16712,null,null,null,null,1.0,null,2.6,1.0,1.0,3.6,1.0,
+Login estudiante4035,CRN-16712,null,null,null,null,4.0,null,2.0,3.4,4.0,3.0,4.0,
+Login estudiante12283,CRN-16712,null,null,null,null,5.0,null,4.2,3.6,4.0,null,null,
+Login estudiante10434,CRN-16712,null,null,null,null,5.0,null,4.0,4.0,5.0,3.0,4.25,
+Login estudiante16473,CRN-16712,null,null,null,null,4.0,null,3.2,4.0,4.0,3.8,null,
+Login estudiante16474,CRN-16712,null,null,null,null,4.333333333333333,null,3.6,4.0,5.0,3.6,3.625,
+Login estudiante16475,CRN-16712,null,null,null,null,3.6666666666666665,null,3.6,2.8,4.0,3.4,2.875,
+Login estudiante5025,CRN-16712,null,null,null,null,4.0,null,3.2,4.0,2.0,4.4,2.875,
+Login estudiante15680,CRN-16712,null,null,null,null,4.0,null,3.4,3.6,4.0,3.6,4.75,
+Login estudiante16476,CRN-16712,null,null,null,null,4.0,null,2.6,3.8,4.0,3.8,2.875,
+Login estudiante16477,CRN-16712,null,null,null,null,1.0,null,1.0,2.4,3.0,3.4,4.0,
+Login estudiante3911,CRN-16712,null,null,null,null,4.666666666666667,null,3.2,3.2,4.0,1.6,4.0,
+Login estudiante6200,CRN-16712,null,null,null,null,5.0,null,3.6,3.2,4.0,2.6,3.375,
+Login estudiante8782,CRN-16712,null,null,null,null,4.0,null,3.0,3.4,4.0,3.6,3.625,
+Login estudiante3994,CRN-16712,null,null,null,null,5.0,null,5.0,4.8,5.0,5.0,5.0,
+Login estudiante6260,CRN-16712,null,null,null,null,5.0,null,3.0,4.0,2.0,3.8,2.875,
+Login estudiante16478,CRN-16712,null,null,null,null,4.0,null,4.4,3.8,5.0,4.6,4.0,
+Login estudiante16479,CRN-16712,null,null,null,null,4.666666666666667,null,3.8,3.0,4.0,3.6,3.625,
+Login estudiante12239,CRN-16714,null,null,null,null,5.0,5.0,2.888888888888889,3.5,4.0,4.222222222222222,4.125,
+Login estudiante16466,CRN-16714,null,null,null,null,4.333333333333333,5.0,5.0,3.8333333333333335,4.0,4.777777777777778,5.0,
+Login estudiante16467,CRN-16714,null,null,null,null,4.333333333333333,null,null,null,null,null,null,
+Login estudiante4852,CRN-16714,null,null,null,null,4.666666666666667,5.0,3.111111111111111,4.333333333333333,4.0,4.222222222222222,4.5,
+Login estudiante4613,CRN-16714,null,null,null,null,3.6666666666666665,null,3.888888888888889,4.333333333333333,4.0,null,null,
+Login estudiante16468,CRN-16714,null,null,null,null,3.0,5.0,3.3333333333333335,3.8333333333333335,4.0,3.4444444444444446,4.75,
+Login estudiante12258,CRN-16714,null,null,null,null,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante16469,CRN-16714,null,null,null,null,3.0,5.0,2.6666666666666665,3.6666666666666665,4.0,3.7777777777777777,4.0,
+Login estudiante12376,CRN-16719,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante15871,CRN-16719,null,null,null,null,4.0,5.0,4.222222222222222,4.0,4.0,4.0,4.125,
+Login estudiante15873,CRN-16719,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante15874,CRN-16719,null,null,null,null,5.0,5.0,5.0,4.0,4.0,4.888888888888889,5.0,
+Login estudiante15876,CRN-16719,null,null,null,null,4.0,5.0,2.3333333333333335,3.8333333333333335,4.0,3.111111111111111,4.0,
+Login estudiante12377,CRN-16719,null,null,null,null,5.0,null,3.0,null,null,null,null,
+Login estudiante15879,CRN-16719,null,null,null,null,4.333333333333333,null,null,null,null,null,null,
+Login estudiante15881,CRN-16719,null,null,null,null,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante15883,CRN-16719,null,null,null,null,5.0,5.0,3.7777777777777777,4.5,3.0,4.333333333333333,5.0,
+Login estudiante12339,CRN-16719,null,null,null,null,5.0,5.0,3.2222222222222223,4.666666666666667,4.0,4.666666666666667,4.625,
+Login estudiante15886,CRN-16719,null,null,null,null,3.6666666666666665,4.0,2.111111111111111,3.6666666666666665,2.0,3.6666666666666665,4.75,
+Login estudiante15888,CRN-16719,null,null,null,null,4.0,5.0,3.2222222222222223,4.166666666666667,5.0,4.0,4.75,
+Login estudiante15890,CRN-16719,null,null,null,null,5.0,5.0,4.555555555555555,4.833333333333333,5.0,4.888888888888889,4.375,
+Login estudiante6495,CRN-16719,null,null,null,null,5.0,5.0,3.888888888888889,5.0,5.0,5.0,5.0,
+Login estudiante15893,CRN-16719,null,null,null,null,4.333333333333333,5.0,2.7777777777777777,3.8333333333333335,5.0,3.7777777777777777,4.0,
+Login estudiante12255,CRN-16719,null,null,null,null,4.0,4.0,3.6666666666666665,4.0,4.0,3.6666666666666665,3.5,
+Login estudiante15896,CRN-16719,null,null,null,null,5.0,5.0,5.0,4.5,5.0,4.888888888888889,4.875,
+Login estudiante4407,CRN-16719,null,null,null,null,4.666666666666667,5.0,3.0,4.0,5.0,3.888888888888889,4.25,
+Login estudiante11223,CRN-16719,null,null,null,null,4.333333333333333,5.0,3.7777777777777777,4.0,4.0,3.7777777777777777,4.75,
+Login estudiante15900,CRN-16719,null,null,null,null,4.0,4.0,3.7777777777777777,3.6666666666666665,4.0,3.5555555555555554,3.625,
+Login estudiante12333,CRN-16719,null,null,null,null,null,null,null,null,null,null,null,
+Login estudiante15902,CRN-16719,null,null,null,null,4.666666666666667,5.0,3.4444444444444446,4.166666666666667,5.0,3.888888888888889,4.625,
+Login estudiante6074,CRN-16719,null,null,null,null,4.666666666666667,5.0,3.3333333333333335,5.0,5.0,5.0,5.0,
+Login estudiante15905,CRN-16719,null,null,null,null,5.0,5.0,4.777777777777778,5.0,4.0,3.4444444444444446,4.875,
+Login estudiante10519,CRN-1781,COD1780,4.09,201720,1,4.333333333333333,5.0,4.111111111111111,4.666666666666667,5.0,4.222222222222222,4.625,
+null,CRN-1781,COD1780,null,201720,1,4.666666666666667,5.0,4.0,4.833333333333333,5.0,4.222222222222222,5.0,
+null,CRN-1781,COD1780,null,201720,1,5.0,5.0,4.444444444444445,5.0,5.0,4.111111111111111,4.625,
+Login estudiante10583,CRN-1781,COD1780,3.65,201720,1,null,null,null,null,null,null,null,
+null,CRN-1781,COD1780,null,201720,1,4.666666666666667,5.0,3.5555555555555554,4.0,4.0,4.333333333333333,4.75,
+Login estudiante13225,CRN-1781,COD1780,4.78,201720,1,4.666666666666667,5.0,4.333333333333333,4.666666666666667,5.0,4.222222222222222,4.375,
+null,CRN-1781,COD1780,null,201720,1,4.666666666666667,5.0,4.888888888888889,5.0,5.0,5.0,5.0,
+Login estudiante11908,CRN-1781,COD1780,2.74,201720,1,null,null,null,null,null,null,null,
+Login estudiante10584,CRN-1781,COD1780,4.21,201720,1,4.666666666666667,5.0,5.0,4.833333333333333,5.0,4.0,5.0,
+Login estudiante8090,CRN-1781,COD1780,4.2,201720,1,4.333333333333333,4.0,4.888888888888889,4.333333333333333,4.0,3.7777777777777777,4.875,
+Login estudiante13235,CRN-1888,COD1887,4.69,201720,1,null,null,null,null,null,null,null,
+Login estudiante8107,CRN-1888,COD1887,4.35,201720,1,5.0,5.0,5.0,5.0,5.0,4.666666666666667,5.0,
+Login estudiante13237,CRN-1888,COD1887,3.83,201720,1,null,null,null,null,null,null,null,
+Login estudiante10526,CRN-1888,COD1887,4.64,201720,1,null,null,null,null,null,null,null,
+Login estudiante12012,CRN-1888,COD1887,null,201720,1,4.666666666666667,5.0,4.555555555555555,4.0,4.0,5.0,4.875,
+Login estudiante10566,CRN-1888,COD1887,4.87,201720,1,4.666666666666667,5.0,3.7777777777777777,5.0,5.0,3.5555555555555554,4.625,
+Login estudiante13240,CRN-1888,COD1887,4.94,201720,1,5.0,5.0,4.888888888888889,4.0,4.0,3.888888888888889,5.0,
+Login estudiante12014,CRN-1888,COD1887,4.78,201720,1,4.333333333333333,5.0,3.0,4.333333333333333,4.0,4.444444444444445,4.25,
+Login estudiante13227,CRN-1888,COD1887,4.88,201720,1,4.333333333333333,5.0,3.7777777777777777,4.166666666666667,4.0,1.8888888888888888,2.375,
+Login estudiante10567,CRN-1888,COD1887,4.64,201720,1,5.0,5.0,4.888888888888889,5.0,5.0,4.222222222222222,5.0,
+Login estudiante10585,CRN-1888,COD1887,4.25,201720,1,4.666666666666667,5.0,4.777777777777778,5.0,5.0,4.222222222222222,5.0,
+Login estudiante13231,CRN-1888,COD1887,4.43,201720,1,4.666666666666667,5.0,4.888888888888889,4.666666666666667,4.0,3.7777777777777777,4.75,
+Login estudiante11884,CRN-1888,COD1887,4.89,201720,1,5.0,5.0,4.666666666666667,4.833333333333333,5.0,4.222222222222222,5.0,
+Login estudiante2510,CRN-1888,COD1887,4.82,201720,1,4.333333333333333,5.0,4.777777777777778,5.0,4.0,3.2222222222222223,4.5,
+Login estudiante10587,CRN-1888,COD1887,4.1,201720,1,4.0,4.0,3.7777777777777777,3.8333333333333335,3.0,2.5555555555555554,3.875,
+Login estudiante13236,CRN-1888,COD1887,4.84,201720,1,4.0,5.0,2.5555555555555554,3.6666666666666665,2.0,4.111111111111111,3.0,
+Login estudiante6526,CRN-1888,COD1887,4.71,201720,1,5.0,5.0,3.3333333333333335,5.0,3.0,2.4444444444444446,4.125,
+Login estudiante12023,CRN-1888,COD1887,4.63,201720,1,null,null,null,null,null,null,null,
+Login estudiante8114,CRN-1888,COD1887,4.67,201720,1,5.0,5.0,4.888888888888889,4.833333333333333,5.0,5.0,4.75,
+Login estudiante8095,CRN-1888,COD1887,4.41,201720,1,5.0,5.0,5.0,5.0,5.0,4.666666666666667,5.0,
+Login estudiante10568,CRN-1888,COD1887,4.71,201720,1,4.666666666666667,5.0,4.888888888888889,5.0,5.0,4.0,4.875,
+Login estudiante13230,CRN-1888,COD1887,4.29,201720,1,5.0,5.0,4.888888888888889,4.666666666666667,5.0,3.4444444444444446,5.0,
+Login estudiante13232,CRN-1888,COD1887,4.81,201720,1,5.0,5.0,4.666666666666667,4.666666666666667,5.0,4.444444444444445,4.25,
+Login estudiante10582,CRN-1888,COD1887,4.6,201720,1,5.0,5.0,4.888888888888889,5.0,5.0,3.7777777777777777,4.5,
+Login estudiante13228,CRN-1888,COD1887,4.83,201720,1,4.0,5.0,1.8888888888888888,2.1666666666666665,1.0,1.3333333333333333,1.625,
+Login estudiante8096,CRN-1888,COD1887,4.44,201720,1,5.0,5.0,4.333333333333333,4.666666666666667,4.0,3.3333333333333335,5.0,
+Login estudiante10586,CRN-1888,COD1887,4.72,201720,1,null,null,null,null,null,null,null,
+Login estudiante6525,CRN-1888,COD1887,4.52,201720,1,5.0,5.0,4.777777777777778,4.833333333333333,4.0,2.4444444444444446,4.625,
+Login estudiante8952,CRN-1897,COD1896,null,201720,4,null,null,null,null,null,null,null,
+Login estudiante10595,CRN-1897,COD1896,null,201720,4,4.0,4.0,4.0,4.0,4.0,4.777777777777778,4.125,
+Login estudiante10593,CRN-1897,COD1896,null,201720,4,null,null,null,null,null,null,null,
+Login estudiante10604,CRN-1897,COD1896,null,201720,4,null,null,null,null,null,null,null,
+null,CRN-1897,COD1896,null,201720,4,null,null,null,null,null,null,null,
+Login estudiante8959,CRN-1897,COD1896,null,201720,4,null,null,null,null,null,null,null,
+Login estudiante8957,CRN-1897,COD1896,null,201720,4,4.0,4.0,4.333333333333333,4.0,4.0,4.0,4.0,
+Login estudiante8979,CRN-1897,COD1896,null,201720,4,3.6666666666666665,4.0,3.888888888888889,4.0,4.0,4.0,4.0,
+Login estudiante11933,CRN-1907,COD1906,4.31,201720,4,3.6666666666666665,5.0,3.111111111111111,3.8333333333333335,4.0,4.0,4.0,
+Login estudiante11932,CRN-1907,COD1906,4.22,201720,4,null,null,null,null,null,null,null,
+Login estudiante8966,CRN-1907,COD1906,3.91,201720,4,null,null,null,null,null,null,null,
+null,CRN-1907,COD1906,null,201720,4,4.0,5.0,4.0,4.666666666666667,5.0,4.666666666666667,4.5,
+Login estudiante8978,CRN-1907,COD1906,4.93,201720,4,5.0,4.0,1.6666666666666667,4.333333333333333,5.0,4.222222222222222,2.875,
+null,CRN-1907,COD1906,null,201720,4,null,null,null,null,null,null,null,
+null,CRN-1907,COD1906,null,201720,4,4.0,5.0,3.4444444444444446,4.0,4.0,4.666666666666667,3.625,
+Login estudiante15220,CRN-1907,COD1906,4.04,201720,4,3.6666666666666665,5.0,3.4444444444444446,4.5,3.0,3.888888888888889,4.125,
+Login estudiante15219,CRN-1907,COD1906,4.47,201720,4,null,null,null,null,null,null,null,
+Login estudiante15217,CRN-1907,COD1906,4.6,201720,4,4.333333333333333,5.0,3.0,4.833333333333333,4.0,4.555555555555555,3.625,
+Login estudiante8953,CRN-1924,COD1919,4.43,201720,4,4.666666666666667,5.0,2.2222222222222223,5.0,5.0,5.0,5.0,
+Login estudiante8958,CRN-1924,COD1919,4.45,201720,4,4.666666666666667,5.0,4.888888888888889,4.666666666666667,4.0,3.888888888888889,5.0,
+Login estudiante8976,CRN-1924,COD1919,4.38,201720,4,4.333333333333333,5.0,4.666666666666667,4.5,4.0,4.111111111111111,4.375,
+Login estudiante11923,CRN-1924,COD1919,4.8,201720,4,5.0,5.0,4.888888888888889,5.0,5.0,5.0,5.0,
+Login estudiante11921,CRN-1924,COD1919,3.43,201720,4,4.0,4.0,2.111111111111111,3.6666666666666665,4.0,4.666666666666667,4.0,
+Login estudiante8980,CRN-1924,COD1919,4.72,201720,4,5.0,5.0,4.888888888888889,5.0,5.0,5.0,5.0,
+Login estudiante8964,CRN-1924,COD1919,4.29,201720,4,4.333333333333333,5.0,4.888888888888889,4.833333333333333,5.0,4.111111111111111,5.0,
+Login estudiante11919,CRN-1924,COD1919,3.33,201720,4,3.3333333333333335,4.0,4.444444444444445,3.8333333333333335,4.0,3.2222222222222223,2.625,
+Login estudiante11920,CRN-1924,COD1919,2.95,201720,4,2.0,3.0,1.2222222222222223,2.6666666666666665,2.0,2.6666666666666665,2.25,
+Login estudiante11922,CRN-1924,COD1919,3.58,201720,4,1.3333333333333333,4.0,2.2222222222222223,2.3333333333333335,2.0,2.6666666666666665,2.125,
+Login estudiante8961,CRN-1931,COD1930,4.68,201720,4,3.3333333333333335,4.0,2.625,4.333333333333333,4.0,3.4444444444444446,3.25,
+Login estudiante11928,CRN-1931,COD1930,4.06,201720,4,4.666666666666667,5.0,5.0,5.0,5.0,4.777777777777778,5.0,
+Login estudiante15215,CRN-1931,COD1930,3.44,201720,4,4.666666666666667,4.0,4.111111111111111,4.5,4.0,3.5555555555555554,4.125,
+Login estudiante15907,CRN-2418,COD926,null,201720,1,4.333333333333333,5.0,3.4444444444444446,4.833333333333333,5.0,3.4444444444444446,5.0,
+Login estudiante15909,CRN-2418,COD926,null,201720,1,3.3333333333333335,null,null,null,null,null,null,
+Login estudiante15911,CRN-2418,COD926,null,201720,1,4.666666666666667,4.0,3.5555555555555554,4.166666666666667,4.0,3.5555555555555554,4.0,
+Login estudiante12381,CRN-2418,COD926,null,201720,1,5.0,null,5.0,null,null,null,null,
+Login estudiante15914,CRN-2418,COD926,null,201720,1,4.333333333333333,4.0,3.888888888888889,4.0,5.0,3.7777777777777777,3.875,
+Login estudiante15916,CRN-2418,COD926,null,201720,1,4.666666666666667,null,null,null,null,null,null,
+Login estudiante15918,CRN-2418,COD926,null,201720,1,5.0,5.0,2.7777777777777777,4.666666666666667,4.0,4.111111111111111,3.875,
+Login estudiante12367,CRN-2418,COD926,null,201720,1,4.666666666666667,null,4.333333333333333,null,null,null,null,
+Login estudiante15921,CRN-2418,COD926,null,201720,1,null,null,null,null,null,null,null,
+Login estudiante7352,CRN-2418,COD926,null,201720,1,3.6666666666666665,5.0,3.888888888888889,4.333333333333333,5.0,4.444444444444445,4.0,
+Login estudiante15923,CRN-2418,COD926,null,201720,1,null,null,null,null,null,null,null,
+Login estudiante15924,CRN-2418,COD926,null,201720,1,5.0,null,null,null,null,null,null,
+Login estudiante15926,CRN-2418,COD926,null,201720,1,5.0,5.0,3.7777777777777777,5.0,5.0,4.111111111111111,5.0,
+Login estudiante11832,CRN-2424,COD1699,4.1,201720,4,4.0,5.0,2.888888888888889,3.3333333333333335,3.0,5.0,5.0,
+Login estudiante11825,CRN-2424,COD1699,4.26,201720,4,3.6666666666666665,5.0,3.888888888888889,4.0,4.0,5.0,5.0,
+Login estudiante11827,CRN-2424,COD1699,3.98,201720,4,3.6666666666666665,5.0,4.444444444444445,4.0,5.0,4.0,4.0,
+Login estudiante11866,CRN-2424,COD1699,4.31,201720,4,4.666666666666667,5.0,4.777777777777778,4.833333333333333,5.0,4.444444444444445,5.0,
+Login estudiante11830,CRN-2424,COD1699,3.73,201720,4,3.6666666666666665,5.0,3.7777777777777777,3.0,4.0,4.0,4.0,
+Login estudiante11829,CRN-2424,COD1699,3.45,201720,4,3.0,5.0,2.6666666666666665,4.0,4.0,2.888888888888889,3.875,
+Login estudiante11828,CRN-2424,COD1699,4.31,201720,4,4.0,5.0,3.6666666666666665,3.6666666666666665,4.0,4.0,4.625,
+null,CRN-337,COD333,null,201720,3,4.0,3.0,2.7777777777777777,3.5,4.0,3.4444444444444446,3.0,
+null,CRN-337,COD333,null,201720,3,1.0,4.0,4.555555555555555,4.833333333333333,5.0,4.333333333333333,4.125,
+null,CRN-337,COD333,null,201720,3,3.0,1.0,3.0,3.0,3.0,1.0,1.0,
+null,CRN-337,COD333,null,201720,3,4.0,5.0,3.7777777777777777,4.166666666666667,4.0,5.0,5.0,
+null,CRN-337,COD333,null,201720,3,4.0,3.0,3.5555555555555554,3.6666666666666665,4.0,4.666666666666667,3.5,
+null,CRN-337,COD333,null,201720,3,3.0,4.0,3.0,4.0,4.0,4.0,3.5,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,4.0,3.0,3.6666666666666665,4.0,3.888888888888889,3.375,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,1.5555555555555556,3.3333333333333335,4.0,4.0,4.0,
+null,CRN-337,COD333,null,201720,3,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+null,CRN-337,COD333,null,201720,3,3.0,3.0,2.111111111111111,3.8333333333333335,4.0,3.3333333333333335,3.75,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,4.0,2.6666666666666665,4.0,4.0,4.444444444444445,3.75,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,4.0,2.3333333333333335,4.0,4.0,4.444444444444445,4.875,
+null,CRN-337,COD333,null,201720,3,3.3333333333333335,4.0,4.0,3.6666666666666665,4.0,4.0,4.0,
+null,CRN-337,COD333,null,201720,3,null,null,null,null,null,null,null,
+null,CRN-337,COD333,null,201720,3,3.3333333333333335,3.0,1.5555555555555556,3.6666666666666665,3.0,4.0,2.875,
+null,CRN-337,COD333,null,201720,3,2.6666666666666665,3.0,3.6666666666666665,3.8333333333333335,3.0,3.3333333333333335,3.625,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,null,4.444444444444445,null,null,null,null,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,3.2222222222222223,4.0,4.0,4.222222222222222,3.5,
+null,CRN-337,COD333,null,201720,3,3.0,2.0,2.0,3.3333333333333335,2.0,3.888888888888889,1.625,
+null,CRN-337,COD333,null,201720,3,3.0,null,null,null,null,null,null,
+null,CRN-337,COD333,null,201720,3,3.3333333333333335,2.0,2.6666666666666665,3.5,2.0,3.5555555555555554,2.125,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,3.6666666666666665,4.0,3.0,4.555555555555555,3.5,
+null,CRN-337,COD333,null,201720,3,4.666666666666667,1.0,1.5555555555555556,3.3333333333333335,2.0,4.0,1.375,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,2.0,4.222222222222222,5.0,3.0,4.777777777777778,5.0,
+null,CRN-337,COD333,null,201720,3,5.0,null,4.666666666666667,null,null,null,null,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,2.0,2.888888888888889,3.5,3.0,3.7777777777777777,3.5,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,3.0,4.777777777777778,4.166666666666667,4.0,3.4444444444444446,4.375,
+null,CRN-337,COD333,null,201720,3,2.6666666666666665,5.0,3.0,3.8333333333333335,4.0,3.3333333333333335,4.0,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,3.0,2.888888888888889,3.6666666666666665,4.0,4.222222222222222,4.0,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,3.0,3.2222222222222223,3.6666666666666665,3.0,4.888888888888889,3.25,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,4.0,4.0,4.0,4.0,4.0,
+null,CRN-337,COD333,null,201720,3,2.6666666666666665,3.0,2.5555555555555554,2.6666666666666665,2.0,4.555555555555555,1.5,
+null,CRN-337,COD333,null,201720,3,3.0,2.0,2.888888888888889,4.0,2.0,3.2222222222222223,3.625,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,4.0,2.888888888888889,3.5,4.0,4.555555555555555,3.625,
+null,CRN-337,COD333,null,201720,3,4.0,2.0,2.0,3.3333333333333335,3.0,2.6666666666666665,2.125,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,4.0,2.3333333333333335,4.166666666666667,4.0,4.666666666666667,3.0,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,3.5555555555555554,4.0,4.0,3.7777777777777777,3.875,
+null,CRN-337,COD333,null,201720,3,4.333333333333333,4.0,4.111111111111111,4.666666666666667,4.0,4.777777777777778,4.625,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,2.0,2.7777777777777777,3.3333333333333335,4.0,3.5555555555555554,2.875,
+null,CRN-337,COD333,null,201720,3,2.6666666666666665,4.0,1.7777777777777777,2.5,4.0,3.3333333333333335,2.625,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,4.444444444444445,5.0,4.0,4.666666666666667,4.75,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,4.0,2.2222222222222223,3.6666666666666665,3.0,4.222222222222222,4.0,
+null,CRN-337,COD333,null,201720,3,3.3333333333333335,1.0,2.4444444444444446,1.8333333333333333,2.0,1.3333333333333333,1.5,
+null,CRN-337,COD333,null,201720,3,2.0,4.0,1.2222222222222223,3.0,4.0,3.2222222222222223,3.0,
+null,CRN-337,COD333,null,201720,3,4.0,3.0,2.0,3.0,3.0,3.5555555555555554,2.875,
+null,CRN-337,COD333,null,201720,3,4.0,1.0,3.7777777777777777,4.0,4.0,3.6666666666666665,3.375,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,null,null,null,null,null,null,
+null,CRN-337,COD333,null,201720,3,4.666666666666667,4.0,3.5555555555555554,4.166666666666667,4.0,3.4444444444444446,2.875,
+null,CRN-337,COD333,null,201720,3,4.0,4.0,3.3333333333333335,4.666666666666667,4.0,4.444444444444445,4.375,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,3.0,3.6666666666666665,4.5,3.0,3.111111111111111,3.625,
+null,CRN-337,COD333,null,201720,3,4.666666666666667,5.0,3.4444444444444446,4.833333333333333,4.0,4.444444444444445,4.875,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,3.0,2.6666666666666665,3.5,3.0,4.555555555555555,3.625,
+null,CRN-337,COD333,null,201720,3,4.0,3.0,2.2222222222222223,4.333333333333333,4.0,4.555555555555555,4.375,
+null,CRN-337,COD333,null,201720,3,3.6666666666666665,3.0,3.4444444444444446,4.333333333333333,3.0,4.666666666666667,4.375,
+null,CRN-337,COD333,null,201720,3,4.0,5.0,2.2222222222222223,4.5,4.0,4.444444444444445,4.5,
+null,CRN-337,COD333,null,201720,3,5.0,5.0,4.111111111111111,4.666666666666667,5.0,5.0,4.875,
+null,CRN-337,COD333,null,201720,3,2.0,3.0,3.111111111111111,2.5,4.0,3.111111111111111,2.75,
+null,CRN-337,COD333,null,201720,3,2.6666666666666665,3.0,2.7777777777777777,3.3333333333333335,3.0,3.3333333333333335,2.375,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,1.3333333333333333,3.5,4.0,3.6666666666666665,3.875,
+null,CRN-502,COD500,null,201720,3,4.333333333333333,5.0,3.2222222222222223,4.166666666666667,4.0,4.333333333333333,3.375,
+null,CRN-502,COD500,null,201720,3,5.0,3.0,3.3333333333333335,3.0,3.0,3.0,3.125,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,2.888888888888889,4.333333333333333,2.0,4.666666666666667,4.0,
+null,CRN-502,COD500,null,201720,3,3.6666666666666665,5.0,2.888888888888889,3.6666666666666665,3.0,2.6666666666666665,2.875,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,2.2222222222222223,4.833333333333333,4.0,3.888888888888889,4.0,
+null,CRN-502,COD500,null,201720,3,4.333333333333333,null,null,null,null,null,null,
+null,CRN-502,COD500,null,201720,3,4.0,5.0,0.8888888888888888,2.6666666666666665,3.0,3.0,1.375,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,4.888888888888889,5.0,5.0,5.0,5.0,
+null,CRN-502,COD500,null,201720,3,2.6666666666666665,2.0,3.3333333333333335,3.0,4.0,3.0,2.75,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,4.0,4.0,4.0,4.0,4.0,3.125,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,3.6666666666666665,5.0,5.0,4.555555555555555,5.0,
+null,CRN-502,COD500,null,201720,3,3.3333333333333335,4.0,3.5555555555555554,3.3333333333333335,4.0,3.5555555555555554,3.5,
+null,CRN-502,COD500,null,201720,3,2.3333333333333335,5.0,2.0,2.3333333333333335,4.0,2.4444444444444446,2.75,
+null,CRN-502,COD500,null,201720,3,4.0,5.0,2.888888888888889,3.3333333333333335,4.0,4.555555555555555,2.875,
+null,CRN-502,COD500,null,201720,3,4.0,4.0,4.555555555555555,4.0,4.0,4.555555555555555,4.5,
+null,CRN-502,COD500,null,201720,3,4.0,2.0,2.7777777777777777,3.1666666666666665,2.0,2.3333333333333335,2.625,
+null,CRN-502,COD500,null,201720,3,4.0,4.0,4.0,4.0,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,null,null,null,null,null,null,
+null,CRN-502,COD500,null,201720,3,4.333333333333333,3.0,3.6666666666666665,4.0,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,2.7777777777777777,5.0,5.0,5.0,3.75,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,4.666666666666667,4.0,3.0,4.0,4.625,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,2.6666666666666665,4.333333333333333,5.0,4.555555555555555,4.25,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,3.111111111111111,4.166666666666667,5.0,3.6666666666666665,2.625,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,4.0,4.222222222222222,4.666666666666667,3.0,4.0,3.75,
+null,CRN-502,COD500,null,201720,3,5.0,null,null,null,null,null,null,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,4.444444444444445,5.0,5.0,5.0,4.625,
+null,CRN-502,COD500,null,201720,3,4.0,null,1.6666666666666667,4.0,4.0,3.2222222222222223,null,
+null,CRN-502,COD500,null,201720,3,4.0,4.0,4.0,4.0,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,4.0,1.0,2.3333333333333335,4.0,2.0,2.888888888888889,2.5,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,2.4444444444444446,5.0,4.0,4.555555555555555,3.0,
+null,CRN-502,COD500,null,201720,3,5.0,4.0,5.0,4.0,5.0,4.0,3.375,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,1.0,3.111111111111111,4.666666666666667,3.0,4.555555555555555,3.0,
+null,CRN-502,COD500,null,201720,3,3.6666666666666665,5.0,2.4444444444444446,3.3333333333333335,4.0,3.3333333333333335,1.75,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,3.2222222222222223,4.333333333333333,4.0,3.888888888888889,3.875,
+null,CRN-502,COD500,null,201720,3,4.0,4.0,4.555555555555555,4.0,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,3.6666666666666665,5.0,3.111111111111111,4.5,5.0,2.4444444444444446,5.0,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,1.7777777777777777,3.6666666666666665,4.0,3.7777777777777777,2.375,
+null,CRN-502,COD500,null,201720,3,4.333333333333333,5.0,4.111111111111111,3.5,5.0,3.5555555555555554,3.625,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,4.0,2.0,4.5,3.0,3.0,4.625,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,3.4444444444444446,4.166666666666667,5.0,4.777777777777778,2.75,
+null,CRN-502,COD500,null,201720,3,5.0,5.0,3.7777777777777777,4.666666666666667,3.0,4.777777777777778,4.125,
+null,CRN-502,COD500,null,201720,3,2.6666666666666665,4.0,4.111111111111111,4.0,1.0,3.6666666666666665,1.5,
+null,CRN-502,COD500,null,201720,3,3.6666666666666665,4.0,4.0,4.0,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,4.0,5.0,3.111111111111111,3.1666666666666665,3.0,3.2222222222222223,3.0,
+null,CRN-502,COD500,null,201720,3,3.3333333333333335,5.0,3.5555555555555554,3.6666666666666665,4.0,4.111111111111111,4.875,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,5.0,4.111111111111111,3.8333333333333335,4.0,3.4444444444444446,3.125,
+null,CRN-502,COD500,null,201720,3,4.0,null,2.7777777777777777,3.3333333333333335,3.0,2.6666666666666665,null,
+null,CRN-502,COD500,null,201720,3,4.0,5.0,3.888888888888889,4.0,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,2.0,5.0,1.6666666666666667,2.0,3.0,2.4444444444444446,2.25,
+null,CRN-502,COD500,null,201720,3,3.6666666666666665,5.0,3.7777777777777777,3.6666666666666665,4.0,4.0,3.0,
+null,CRN-502,COD500,null,201720,3,4.0,4.0,3.7777777777777777,3.5,4.0,4.0,4.0,
+null,CRN-502,COD500,null,201720,3,4.666666666666667,4.0,3.111111111111111,4.5,3.0,2.888888888888889,3.375,
+null,CRN-502,COD500,null,201720,3,2.6666666666666665,5.0,1.7777777777777777,4.0,4.0,4.0,3.5,
+null,CRN-502,COD500,null,201720,3,5.0,4.0,5.0,5.0,3.0,4.0,3.125,
+null,CRN-502,COD500,null,201720,3,4.333333333333333,5.0,3.6666666666666665,4.5,4.0,3.3333333333333335,3.25,
+Login estudiante5402,CRN-515,COD514,4.64,201720,1,5.0,5.0,5.0,5.0,5.0,4.555555555555555,5.0,
+Login estudiante9333,CRN-515,COD514,4.57,201720,1,4.666666666666667,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante12549,CRN-515,COD514,3.77,201720,1,5.0,null,4.75,4.833333333333333,5.0,4.555555555555555,5.0,
+Login estudiante6788,CRN-515,COD514,4.69,201720,1,4.333333333333333,5.0,2.375,4.5,4.0,3.4444444444444446,3.875,
+Login estudiante12554,CRN-515,COD514,4.66,201720,1,4.0,5.0,2.0,4.0,4.0,4.0,3.875,
+Login estudiante12401,CRN-515,COD514,4.42,201720,1,4.333333333333333,5.0,4.375,4.833333333333333,5.0,3.888888888888889,4.625,
+Login estudiante12551,CRN-515,COD514,3.43,201720,1,5.0,5.0,5.0,4.0,5.0,3.888888888888889,4.0,
+Login estudiante12552,CRN-515,COD514,4.81,201720,1,null,null,null,null,null,null,null,
+Login estudiante12553,CRN-515,COD514,4.88,201720,1,5.0,5.0,4.875,4.0,5.0,3.5555555555555554,5.0,
+Login estudiante12620,CRN-548,COD547,4.14,201720,1,4.666666666666667,5.0,3.7777777777777777,5.0,5.0,4.444444444444445,5.0,
+Login estudiante3418,CRN-548,COD547,4.36,201720,1,4.666666666666667,4.0,4.333333333333333,4.5,5.0,4.222222222222222,4.5,
+Login estudiante12602,CRN-548,COD547,4.65,201720,1,4.0,5.0,3.0,3.8333333333333335,5.0,3.5555555555555554,4.0,
+Login estudiante12622,CRN-548,COD547,3.95,201720,1,4.0,4.0,1.6666666666666667,4.0,2.0,3.4444444444444446,4.0,
+Login estudiante12598,CRN-548,COD547,4.39,201720,1,4.666666666666667,5.0,4.0,4.666666666666667,2.0,4.0,4.5,
+Login estudiante12623,CRN-548,COD547,3.98,201720,1,3.6666666666666665,5.0,3.0,4.166666666666667,3.0,4.0,4.375,
+Login estudiante12597,CRN-548,COD547,4.21,201720,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante12593,CRN-548,COD547,4.39,201720,1,3.3333333333333335,5.0,4.444444444444445,4.666666666666667,4.0,4.333333333333333,4.625,
+Login estudiante11340,CRN-548,COD547,4.71,201720,1,4.0,5.0,2.7777777777777777,3.8333333333333335,3.0,3.5555555555555554,3.25,
+Login estudiante6349,CRN-548,COD547,3.95,201720,1,3.3333333333333335,4.0,2.0,3.6666666666666665,2.0,3.0,4.375,
+Login estudiante12619,CRN-548,COD547,4.78,201720,1,4.333333333333333,5.0,4.444444444444445,4.833333333333333,5.0,3.5555555555555554,5.0,
+Login estudiante4812,CRN-548,COD547,4.83,201720,1,3.6666666666666665,null,null,null,null,null,null,
+Login estudiante12611,CRN-548,COD547,3.49,201720,1,5.0,5.0,2.2222222222222223,5.0,5.0,5.0,5.0,
+Login estudiante12615,CRN-548,COD547,4.66,201720,1,3.3333333333333335,5.0,3.0,3.5,3.0,4.0,4.375,
+Login estudiante12603,CRN-548,COD547,4.4,201720,1,3.6666666666666665,5.0,2.2222222222222223,4.0,4.0,4.444444444444445,3.125,
+Login estudiante3777,CRN-548,COD547,3.91,201720,1,null,null,null,null,null,null,null,
+Login estudiante12607,CRN-548,COD547,3.7,201720,1,3.6666666666666665,null,null,null,null,null,null,
+Login estudiante3792,CRN-548,COD547,3.92,201720,1,4.0,5.0,2.7777777777777777,4.5,4.0,3.888888888888889,3.75,
+Login estudiante4864,CRN-548,COD547,4.21,201720,1,4.0,5.0,2.6666666666666665,3.3333333333333335,3.0,2.888888888888889,4.125,
+Login estudiante12601,CRN-548,COD547,4.28,201720,1,1.0,5.0,3.5555555555555554,3.8333333333333335,3.0,3.0,3.75,
+Login estudiante12596,CRN-548,COD547,4.12,201720,1,4.0,null,3.2222222222222223,4.0,4.0,null,null,
+Login estudiante12621,CRN-548,COD547,3.89,201720,1,4.666666666666667,5.0,4.444444444444445,4.666666666666667,5.0,4.222222222222222,5.0,
+Login estudiante5072,CRN-548,COD547,3.89,201720,1,2.6666666666666665,5.0,3.0,3.1666666666666665,2.0,3.5555555555555554,3.5,
+Login estudiante12608,CRN-548,COD547,4.52,201720,1,4.0,4.0,4.555555555555555,3.8333333333333335,3.0,3.888888888888889,4.0,
+Login estudiante2980,CRN-548,COD547,4.39,201720,1,3.3333333333333335,5.0,2.111111111111111,4.666666666666667,3.0,3.7777777777777777,4.875,
+Login estudiante12605,CRN-548,COD547,4.37,201720,1,4.666666666666667,5.0,4.888888888888889,5.0,4.0,5.0,5.0,
+Login estudiante12606,CRN-548,COD547,4.08,201720,1,3.0,5.0,3.2222222222222223,4.166666666666667,2.0,4.0,3.875,
+Login estudiante12612,CRN-548,COD547,4.36,201720,1,3.0,4.0,2.888888888888889,4.166666666666667,4.0,3.2222222222222223,4.125,
+Login estudiante12610,CRN-548,COD547,4.67,201720,1,4.0,5.0,4.111111111111111,4.0,4.0,3.7777777777777777,4.25,
+Login estudiante12604,CRN-548,COD547,4.53,201720,1,3.0,4.0,3.0,3.3333333333333335,3.0,3.0,2.375,
+Login estudiante11140,CRN-560,COD558,4.65,201720,1,4.666666666666667,4.0,1.6666666666666667,4.333333333333333,5.0,4.444444444444445,3.75,
+Login estudiante13445,CRN-560,COD558,4.5,201720,1,5.0,4.0,3.3333333333333335,4.0,2.0,4.0,4.0,
+Login estudiante8369,CRN-560,COD558,4.7,201720,1,5.0,5.0,4.444444444444445,5.0,5.0,3.5555555555555554,4.375,
+Login estudiante3740,CRN-560,COD558,4.45,201720,1,5.0,5.0,1.8888888888888888,4.166666666666667,4.0,4.222222222222222,3.75,
+Login estudiante8005,CRN-560,COD558,4.5,201720,1,1.0,3.0,1.8888888888888888,1.0,1.0,1.0,1.0,
+Login estudiante8618,CRN-560,COD558,4.0,201720,1,5.0,5.0,5.0,5.0,5.0,4.888888888888889,4.75,
+Login estudiante15068,CRN-560,COD558,4.1,201720,1,5.0,5.0,2.5555555555555554,5.0,5.0,4.444444444444445,5.0,
+Login estudiante7295,CRN-560,COD558,4.7,201720,1,4.0,null,3.4444444444444446,3.5,null,null,null,
+Login estudiante4223,CRN-560,COD558,4.45,201720,1,5.0,5.0,5.0,5.0,4.0,4.111111111111111,5.0,
+Login estudiante14133,CRN-560,COD558,4.3,201720,1,5.0,4.0,4.444444444444445,4.0,4.0,4.0,4.375,
+Login estudiante10826,CRN-560,COD558,4.6,201720,1,4.666666666666667,5.0,4.333333333333333,5.0,5.0,4.666666666666667,4.625,
+Login estudiante13689,CRN-560,COD558,4.55,201720,1,5.0,5.0,2.0,5.0,5.0,4.444444444444445,5.0,
+Login estudiante13730,CRN-560,COD558,4.2,201720,1,4.0,5.0,5.0,4.666666666666667,5.0,4.0,4.0,
+Login estudiante15057,CRN-560,COD558,4.75,201720,1,4.666666666666667,null,5.0,5.0,3.0,3.0,null,
+Login estudiante11010,CRN-560,COD558,3.85,201720,1,5.0,null,null,null,null,null,null,
+Login estudiante15066,CRN-560,COD558,4.5,201720,1,3.0,null,null,null,null,null,null,
+Login estudiante11311,CRN-560,COD558,4.4,201720,1,3.3333333333333335,3.0,2.4444444444444446,3.5,3.0,3.0,3.75,
+Login estudiante15052,CRN-560,COD558,3.75,201720,1,3.0,5.0,1.2222222222222223,3.1666666666666665,2.0,3.2222222222222223,3.375,
+Login estudiante8621,CRN-560,COD558,4.25,201720,1,4.333333333333333,5.0,4.444444444444445,5.0,5.0,4.888888888888889,4.5,
+Login estudiante7311,CRN-560,COD558,4.8,201720,1,5.0,5.0,3.2222222222222223,5.0,5.0,4.0,5.0,
+Login estudiante9026,CRN-560,COD558,4.6,201720,1,4.666666666666667,5.0,4.888888888888889,5.0,4.5,5.0,4.75,
+Login estudiante7038,CRN-560,COD558,4.55,201720,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+Login estudiante11285,CRN-560,COD558,4.5,201720,1,4.666666666666667,5.0,2.6666666666666665,5.0,3.5,3.4444444444444446,3.75,
+Login estudiante7007,CRN-560,COD558,4.4,201720,1,5.0,5.0,4.444444444444445,5.0,5.0,5.0,5.0,
+Login estudiante15073,CRN-560,COD558,4.8,201720,1,3.6666666666666665,4.0,1.4444444444444444,3.5,3.5,3.6666666666666665,3.75,
+Login estudiante14534,CRN-560,COD558,4.2,201720,1,5.0,2.0,4.666666666666667,5.0,5.0,4.888888888888889,4.375,
+Login estudiante7372,CRN-560,COD558,4.45,201720,1,4.333333333333333,5.0,3.888888888888889,4.666666666666667,4.5,4.666666666666667,4.375,
+Login estudiante12686,CRN-560,COD558,4.8,201720,1,4.333333333333333,4.0,3.4444444444444446,3.6666666666666665,1.5,4.333333333333333,3.0,
+Login estudiante9368,CRN-560,COD558,4.6,201720,1,1.0,5.0,1.2222222222222223,1.0,1.0,4.555555555555555,5.0,
+Login estudiante4047,CRN-560,COD558,4.55,201720,1,5.0,4.0,3.3333333333333335,4.0,4.0,4.0,4.0,
+Login estudiante15058,CRN-560,COD558,4.7,201720,1,4.333333333333333,null,1.6666666666666667,3.1666666666666665,null,null,null,
+Login estudiante15070,CRN-560,COD558,4.8,201720,1,5.0,5.0,2.2222222222222223,5.0,5.0,5.0,5.0,
+Login estudiante5063,CRN-560,COD558,4.55,201720,1,3.6666666666666665,5.0,3.6666666666666665,3.3333333333333335,4.0,3.888888888888889,3.0,
+Login estudiante8039,CRN-560,COD558,4.75,201720,1,5.0,5.0,5.0,4.0,5.0,4.0,4.5,
+Login estudiante4045,CRN-560,COD558,4.4,201720,1,5.0,5.0,1.8888888888888888,4.833333333333333,4.0,3.0,4.875,
+Login estudiante4833,CRN-560,COD558,4.55,201720,1,5.0,5.0,4.333333333333333,5.0,4.5,4.444444444444445,4.125,
+Login estudiante15054,CRN-560,COD558,3.25,201720,1,5.0,5.0,2.7777777777777777,4.666666666666667,5.0,5.0,5.0,
+Login estudiante7639,CRN-560,COD558,4.55,201720,1,4.0,5.0,4.0,4.0,4.0,4.0,4.0,
+Login estudiante7313,CRN-560,COD558,4.7,201720,1,5.0,5.0,5.0,5.0,5.0,4.666666666666667,5.0,
+Login estudiante8066,CRN-560,COD558,4.8,201720,1,3.0,null,null,null,null,null,null,
+Login estudiante15069,CRN-560,COD558,4.6,201720,1,5.0,5.0,3.5555555555555554,4.666666666666667,5.0,4.666666666666667,5.0,
+Login estudiante6901,CRN-560,COD558,3.85,201720,1,5.0,5.0,2.6666666666666665,4.666666666666667,4.5,3.888888888888889,3.625,
+Login estudiante6556,CRN-560,COD558,4.55,201720,1,4.666666666666667,5.0,5.0,5.0,4.0,5.0,5.0,
+Login estudiante11477,CRN-718,COD716,4.29,201720,1,4.666666666666667,5.0,2.5555555555555554,5.0,4.0,4.555555555555555,4.875,
+Login estudiante14979,CRN-718,COD716,4.56,201720,1,4.333333333333333,5.0,2.6666666666666665,4.833333333333333,3.0,2.7777777777777777,4.375,
+Login estudiante14982,CRN-718,COD716,4.51,201720,1,5.0,5.0,4.666666666666667,5.0,4.0,4.888888888888889,5.0,
+Login estudiante3849,CRN-718,COD716,3.15,201720,1,null,null,null,null,null,null,null,
+Login estudiante14987,CRN-718,COD716,4.46,201720,1,4.0,5.0,4.444444444444445,4.666666666666667,4.0,4.333333333333333,4.75,
+Login estudiante14986,CRN-718,COD716,4.04,201720,1,5.0,5.0,4.333333333333333,4.666666666666667,5.0,4.666666666666667,5.0,
+Login estudiante5256,CRN-718,COD716,4.54,201720,1,4.666666666666667,4.0,2.888888888888889,3.8333333333333335,4.0,4.777777777777778,4.125,
+Login estudiante11421,CRN-718,COD716,4.37,201720,1,4.666666666666667,5.0,4.777777777777778,5.0,5.0,4.777777777777778,4.75,
+Login estudiante9436,CRN-718,COD716,4.4,201720,1,4.0,5.0,3.4444444444444446,4.333333333333333,5.0,4.444444444444445,4.5,
+Login estudiante16214,CRN-718,COD716,null,201720,1,null,null,null,null,null,null,null,
+Login estudiante7014,CRN-718,COD716,3.91,201720,1,5.0,5.0,4.888888888888889,4.666666666666667,3.0,4.333333333333333,4.625,
+Login estudiante10071,CRN-718,COD716,4.2,201720,1,4.333333333333333,5.0,1.5555555555555556,4.0,4.0,3.2222222222222223,3.75,
+Login estudiante5219,CRN-718,COD716,4.31,201720,1,3.0,4.0,2.0,2.6666666666666665,1.0,3.0,2.5,
+Login estudiante7347,CRN-718,COD716,4.0,201720,1,3.3333333333333335,5.0,1.3333333333333333,3.0,2.0,3.111111111111111,2.5,
+Login estudiante14964,CRN-749,COD745,3.69,201720,1,5.0,4.0,2.6666666666666665,4.666666666666667,5.0,4.444444444444445,5.0,
+Login estudiante4799,CRN-749,COD745,4.0,201720,1,4.0,5.0,4.444444444444445,4.0,4.0,4.666666666666667,4.0,
+Login estudiante5595,CRN-749,COD745,4.24,201720,1,4.0,5.0,3.7777777777777777,4.0,4.0,3.6666666666666665,4.0,
+Login estudiante14962,CRN-749,COD745,4.25,201720,1,2.3333333333333335,5.0,3.7777777777777777,2.1666666666666665,3.0,3.7777777777777777,3.625,
+Login estudiante7075,CRN-749,COD745,4.0,201720,1,3.6666666666666665,5.0,5.0,4.5,5.0,5.0,5.0,
+Login estudiante14958,CRN-749,COD745,3.8,201720,1,2.0,3.0,3.111111111111111,1.0,4.0,3.888888888888889,3.375,
+Login estudiante7011,CRN-749,COD745,4.03,201720,1,4.0,5.0,3.4444444444444446,4.0,4.0,3.3333333333333335,4.0,
+Login estudiante14968,CRN-749,COD745,3.47,201720,1,4.0,4.0,4.0,4.0,4.0,3.888888888888889,4.0,
+Login estudiante6103,CRN-749,COD745,4.1,201720,1,4.333333333333333,5.0,4.0,5.0,5.0,3.888888888888889,5.0,
+Login estudiante5560,CRN-749,COD745,4.25,201720,1,3.0,5.0,3.2222222222222223,3.1666666666666665,4.0,3.888888888888889,4.0,
+Login estudiante3983,CRN-749,COD745,3.91,201720,1,3.3333333333333335,4.0,2.0,2.8333333333333335,5.0,3.6666666666666665,3.75,
+Login estudiante14959,CRN-749,COD745,4.52,201720,1,4.333333333333333,4.0,3.6666666666666665,3.0,4.0,3.888888888888889,3.875,
+Login estudiante14966,CRN-749,COD745,4.1,201720,1,3.0,5.0,2.6666666666666665,4.0,5.0,4.888888888888889,4.875,
+Login estudiante10854,CRN-749,COD745,3.81,201720,1,4.333333333333333,5.0,4.444444444444445,5.0,5.0,4.666666666666667,5.0,
+Login estudiante14960,CRN-749,COD745,3.79,201720,1,3.0,4.0,3.6666666666666665,3.6666666666666665,4.0,3.6666666666666665,3.75,
+Login estudiante14965,CRN-749,COD745,4.13,201720,1,4.0,4.0,2.111111111111111,3.0,4.0,3.6666666666666665,3.25,
+Login estudiante9904,CRN-749,COD745,3.98,201720,1,2.6666666666666665,5.0,4.222222222222222,4.0,5.0,5.0,5.0,
+Login estudiante14963,CRN-749,COD745,3.85,201720,1,3.0,5.0,3.2222222222222223,2.1666666666666665,4.0,4.0,4.0,
+Login estudiante3457,CRN-749,COD745,4.34,201720,1,3.3333333333333335,5.0,4.555555555555555,3.3333333333333335,5.0,4.888888888888889,5.0,
+Login estudiante3523,CRN-749,COD745,3.77,201720,1,4.0,4.0,3.2222222222222223,3.8333333333333335,2.0,2.6666666666666665,3.5,
+Login estudiante14967,CRN-749,COD745,4.4,201720,1,3.3333333333333335,4.0,2.5555555555555554,3.5,4.0,3.6666666666666665,3.75,
+Login estudiante11434,CRN-749,COD745,4.79,201720,1,2.6666666666666665,5.0,3.3333333333333335,3.3333333333333335,5.0,4.222222222222222,5.0,
+Login estudiante10886,CRN-749,COD745,4.01,201720,1,3.0,5.0,4.0,3.6666666666666665,5.0,4.444444444444445,4.25,
+Login estudiante7916,CRN-749,COD745,4.83,201720,1,3.3333333333333335,5.0,4.111111111111111,4.166666666666667,4.0,4.0,4.875,
+Login estudiante14961,CRN-749,COD745,4.21,201720,1,4.333333333333333,4.0,3.6666666666666665,4.0,4.0,3.7777777777777777,4.0,
+Login estudiante4490,CRN-749,COD745,3.84,201720,1,3.6666666666666665,4.0,2.888888888888889,3.1666666666666665,4.0,3.0,3.25,
+Login estudiante8572,CRN-749,COD745,3.91,201720,1,4.0,5.0,3.111111111111111,4.166666666666667,5.0,4.666666666666667,4.625,
+Login estudiante7992,CRN-757,COD755,4.19,201720,1,4.75,3.0,4.222222222222222,4.571428571428571,4.5,4.444444444444445,3.375,
+Login estudiante13133,CRN-757,COD755,4.78,201720,1,5.0,5.0,4.0,4.0,5.0,5.0,3.75,
+Login estudiante12733,CRN-757,COD755,3.98,201720,1,3.75,4.0,2.888888888888889,4.0,4.0,3.6666666666666665,4.0,
+null,CRN-757,COD755,null,201720,1,4.5,null,null,null,null,null,null,
+Login estudiante13124,CRN-757,COD755,4.29,201720,1,4.25,4.0,3.7777777777777777,4.0,4.0,4.333333333333333,3.75,
+null,CRN-757,COD755,null,201720,1,3.0,3.0,4.0,2.7142857142857144,3.0,3.888888888888889,3.625,
+null,CRN-757,COD755,null,201720,1,3.25,null,2.888888888888889,null,null,null,null,
+null,CRN-757,COD755,null,201720,1,3.75,4.0,3.4444444444444446,4.0,3.5,3.4444444444444446,3.5,
+null,CRN-757,COD755,null,201720,1,null,null,null,null,null,null,null,
+null,CRN-757,COD755,null,201720,1,2.0,4.0,2.4444444444444446,2.2857142857142856,3.0,3.0,4.0,
+null,CRN-757,COD755,null,201720,1,4.5,3.0,3.888888888888889,4.571428571428571,4.0,4.555555555555555,2.5,
+Login estudiante13144,CRN-757,COD755,4.07,201720,1,2.5,1.0,3.0,2.5714285714285716,3.0,1.5555555555555556,2.375,
+Login estudiante5958,CRN-757,COD755,4.45,201720,1,4.0,4.0,4.0,4.0,4.0,3.888888888888889,4.25,
+Login estudiante13128,CRN-757,COD755,3.51,201720,1,3.5,4.0,3.2222222222222223,3.4285714285714284,5.0,4.0,3.75,
+Login estudiante13110,CRN-757,COD755,3.42,201720,1,3.25,3.0,3.4444444444444446,3.857142857142857,4.0,3.7777777777777777,4.125,
+null,CRN-757,COD755,null,201720,1,3.0,4.0,2.0,3.5714285714285716,4.0,2.6666666666666665,3.0,
+null,CRN-757,COD755,null,201720,1,3.5,5.0,3.2222222222222223,4.0,4.0,4.777777777777778,2.125,
+null,CRN-757,COD755,null,201720,1,4.75,5.0,4.0,5.0,5.0,3.888888888888889,5.0,
+null,CRN-757,COD755,null,201720,1,3.5,3.0,3.7777777777777777,3.7142857142857144,4.0,3.4444444444444446,3.0,
+Login estudiante13112,CRN-757,COD755,4.13,201720,1,3.25,5.0,2.2222222222222223,4.0,4.0,4.0,2.75,
+Login estudiante13125,CRN-757,COD755,3.34,201720,1,4.0,4.0,1.4444444444444444,4.142857142857143,3.5,3.5555555555555554,3.125,
+Login estudiante13117,CRN-757,COD755,4.19,201720,1,4.5,5.0,3.0,4.142857142857143,4.5,4.666666666666667,4.5,
+Login estudiante12627,CRN-757,COD755,4.95,201720,1,4.0,5.0,4.0,4.142857142857143,4.0,4.0,4.0,
+Login estudiante13154,CRN-757,COD755,4.13,201720,1,3.25,4.0,3.2222222222222223,3.142857142857143,2.5,2.5555555555555554,3.0,
+Login estudiante13158,CRN-757,COD755,3.8,201720,1,3.75,4.0,3.7777777777777777,4.0,4.0,3.888888888888889,4.0,
+Login estudiante13151,CRN-757,COD755,4.09,201720,1,3.5,4.0,3.2222222222222223,3.7142857142857144,4.5,4.0,4.0,
+Login estudiante13146,CRN-757,COD755,4.31,201720,1,3.5,4.0,2.6666666666666665,3.7142857142857144,4.0,3.5555555555555554,2.625,
+Login estudiante13118,CRN-757,COD755,3.77,201720,1,2.0,4.0,1.8888888888888888,3.4285714285714284,3.5,3.888888888888889,4.0,
+Login estudiante13142,CRN-757,COD755,4.32,201720,1,null,null,null,null,null,null,null,
+Login estudiante13114,CRN-757,COD755,3.9,201720,1,2.25,3.0,2.3333333333333335,2.857142857142857,3.5,4.555555555555555,2.375,
+Login estudiante13108,CRN-757,COD755,3.79,201720,1,2.75,3.0,2.7777777777777777,3.7142857142857144,3.5,3.0,3.25,
+Login estudiante13135,CRN-757,COD755,4.62,201720,1,4.5,4.0,2.7777777777777777,4.142857142857143,4.5,3.888888888888889,3.5,
+Login estudiante2958,CRN-757,COD755,3.84,201720,1,4.25,4.0,4.333333333333333,4.571428571428571,4.5,4.444444444444445,4.375,
+null,CRN-757,COD755,null,201720,1,null,null,null,null,null,null,null,
+Login estudiante13105,CRN-757,COD755,2.99,201720,1,3.75,4.0,3.111111111111111,4.0,4.0,3.4444444444444446,1.375,
+Login estudiante13134,CRN-757,COD755,3.45,201720,1,null,null,null,null,null,null,null,
+Login estudiante13139,CRN-757,COD755,4.64,201720,1,4.75,5.0,3.7777777777777777,5.0,4.5,4.0,4.0,
+Login estudiante13153,CRN-757,COD755,4.69,201720,1,3.25,4.0,2.3333333333333335,4.0,4.0,4.444444444444445,3.125,
+Login estudiante2752,CRN-757,COD755,3.37,201720,1,3.25,4.0,3.4444444444444446,4.0,4.0,4.0,3.25,
+Login estudiante10737,CRN-757,COD755,4.08,201720,1,3.5,3.0,3.0,4.0,3.0,3.2222222222222223,3.375,
+Login estudiante13120,CRN-757,COD755,4.07,201720,1,null,null,null,null,null,null,null,
+Login estudiante12651,CRN-757,COD755,4.21,201720,1,3.0,4.0,2.5555555555555554,2.2857142857142856,3.0,3.5555555555555554,2.75,
+Login estudiante6406,CRN-757,COD755,3.75,201720,1,4.25,3.0,2.3333333333333335,3.2857142857142856,3.0,2.3333333333333335,2.125,
+Login estudiante13150,CRN-757,COD755,4.31,201720,1,5.0,5.0,3.3333333333333335,4.0,4.5,5.0,5.0,
+Login estudiante13113,CRN-757,COD755,4.5,201720,1,3.25,4.0,3.111111111111111,2.5714285714285716,1.5,2.4444444444444446,1.375,
+Login estudiante13129,CRN-757,COD755,4.11,201720,1,2.25,3.0,2.3333333333333335,3.4285714285714284,4.0,3.2222222222222223,3.25,
+Login estudiante13132,CRN-757,COD755,4.19,201720,1,4.0,5.0,4.777777777777778,4.0,4.0,4.666666666666667,4.875,
+Login estudiante5612,CRN-757,COD755,4.74,201720,1,null,null,null,null,null,null,null,
+null,CRN-765,COD763,null,201720,1,null,null,null,null,null,null,null,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,4.0,2.142857142857143,5.0,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,5.0,4.0,4.142857142857143,4.166666666666667,5.0,4.555555555555555,5.0,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,null,3.4285714285714284,5.0,5.0,5.0,null,
+null,CRN-765,COD763,null,201720,1,4.0,4.0,4.714285714285714,4.0,4.0,4.0,4.0,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,4.0,4.142857142857143,4.0,5.0,4.111111111111111,4.125,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,null,null,null,null,null,null,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,5.0,2.2857142857142856,4.0,4.0,4.222222222222222,3.75,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,2.857142857142857,5.0,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,4.0,4.0,4.0,4.0,4.0,4.0,4.0,
+null,CRN-765,COD763,null,201720,1,3.3333333333333335,4.0,4.0,4.333333333333333,4.0,4.111111111111111,3.875,
+null,CRN-765,COD763,null,201720,1,1.0,null,null,null,null,null,null,
+null,CRN-765,COD763,null,201720,1,3.3333333333333335,3.0,3.0,2.0,2.0,3.4444444444444446,2.25,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,1.8571428571428572,5.0,5.0,3.0,5.0,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,4.0,3.4285714285714284,3.1666666666666665,4.0,4.0,3.875,
+null,CRN-765,COD763,null,201720,1,4.0,5.0,3.857142857142857,4.333333333333333,4.0,4.555555555555555,4.375,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,4.0,4.0,4.333333333333333,5.0,4.777777777777778,5.0,
+null,CRN-765,COD763,null,201720,1,5.0,null,5.0,5.0,null,null,null,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,5.0,5.0,5.0,4.111111111111111,5.0,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,5.0,2.0,4.0,3.0,3.6666666666666665,4.0,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,4.285714285714286,4.833333333333333,5.0,4.0,4.875,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,4.0,2.0,4.333333333333333,5.0,3.7777777777777777,3.5,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,5.0,4.666666666666667,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,5.0,3.0,4.5,4.0,4.111111111111111,4.375,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,5.0,4.833333333333333,4.0,4.444444444444445,4.75,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,5.0,2.7142857142857144,4.333333333333333,4.0,4.333333333333333,4.625,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,2.0,4.142857142857143,4.5,4.0,4.666666666666667,4.625,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,2.142857142857143,5.0,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,5.0,2.7142857142857144,4.166666666666667,4.0,3.7777777777777777,4.125,
+null,CRN-765,COD763,null,201720,1,4.0,5.0,1.8571428571428572,4.833333333333333,4.0,3.6666666666666665,4.5,
+null,CRN-765,COD763,null,201720,1,1.0,5.0,5.0,5.0,5.0,4.333333333333333,4.25,
+null,CRN-765,COD763,null,201720,1,3.6666666666666665,2.0,3.7142857142857144,3.6666666666666665,4.0,3.888888888888889,3.75,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,4.0,3.0,1.8571428571428572,2.5,4.0,2.0,1.625,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,5.0,1.5714285714285714,3.8333333333333335,4.0,4.222222222222222,4.25,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,4.571428571428571,4.666666666666667,3.0,4.888888888888889,4.625,
+null,CRN-765,COD763,null,201720,1,4.0,4.0,4.285714285714286,4.0,3.0,4.0,3.25,
+null,CRN-765,COD763,null,201720,1,4.666666666666667,5.0,1.4285714285714286,4.5,4.0,3.3333333333333335,5.0,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,2.0,2.0,4.833333333333333,5.0,4.333333333333333,3.625,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,4.714285714285714,5.0,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,4.0,2.7142857142857144,4.5,5.0,5.0,5.0,
+null,CRN-765,COD763,null,201720,1,5.0,4.0,4.285714285714286,4.166666666666667,4.0,3.6666666666666665,3.75,
+null,CRN-765,COD763,null,201720,1,5.0,4.0,1.7142857142857142,4.333333333333333,5.0,4.666666666666667,4.5,
+null,CRN-765,COD763,null,201720,1,4.0,4.0,3.2857142857142856,3.8333333333333335,4.0,4.111111111111111,4.0,
+null,CRN-765,COD763,null,201720,1,4.333333333333333,5.0,2.0,4.666666666666667,3.0,3.6666666666666665,4.125,
+null,CRN-765,COD763,null,201720,1,5.0,5.0,2.5714285714285716,4.833333333333333,4.0,4.888888888888889,4.125,
+null,CRN-765,COD763,null,201720,1,5.0,4.0,4.714285714285714,4.0,5.0,4.555555555555555,4.75,
+null,CRN-765,COD763,null,201720,1,3.0,3.0,2.5714285714285716,3.6666666666666665,3.0,3.6666666666666665,2.875,

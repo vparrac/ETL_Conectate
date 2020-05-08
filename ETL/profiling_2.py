@@ -14,7 +14,8 @@ notaPorEstudiante={}
 profesorPorCurso={}
 semestrePorCRN={}
 anioPorCRN={}
-
+semestreEstudiante={}
+acumuladoEstudiante={}
 
 path='./GT1Datos/Out20190404092503CTE19GES-CursosConectaTEInscritosRetirados2013A2017.csv'
 path_2='./GT1Datos/Out2019040409284320190403-EA-CursosConectaTEEstNotaPrmSemPrmAca2013A2017.csv'
@@ -27,7 +28,7 @@ with open(path_2) as csv_file:
         semestrePorCRN.update({crn:row[1]})
         if(row[4].__contains__('profesor')):
             profesorPorCurso.update({row[3]:row[4]})
-        else:
+        else:            
             if crn in notaPorEstudiante:
                 listaEstudiantes=notaPorEstudiante[crn]
                 login=row[4]
@@ -155,8 +156,4 @@ for file_path in files_ind:
                     pass
             else:                
                 processStudent(row=row,categorias=categorias,numeroElementosCategorias=numeroElementosCategorias,sumaTotalCategorias=sumaTotalCategorias,crn=crn)
-    
-    
- 
-
 f.close()
